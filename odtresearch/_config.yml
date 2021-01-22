@@ -1,0 +1,24 @@
+title                       : ODT Research
+author                      : ODT Researchers
+copyright                   : "2021"
+logo                        : logo.png
+
+execute:
+  execute_notebooks: force         # force, auto, cache, 'off'  https://jupyterbook.org/content/execute.html
+
+repository:
+  url: https://github.com/byu-books/odtresearch
+  branch: master                   # default branch
+
+html:                              # github buttons
+  use_issues_button:       true
+  use_repository_button:   true
+  use_edit_page_button:    true
+
+only_build_toc_files: true
+
+parse:
+  myst_extended_syntax: true        # needed for html image parsing (at least)
+
+launch_buttons:
+    thebe: true

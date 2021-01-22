@@ -1,0 +1,26 @@
+# Table of contents
+
+- file: front_page
+  numbered: false
+
+- file: theory/theory
+  sections:
+    - file: theory/triplet_map
+
+- file: odt_publications
+  title: Publications
+  sections: 
+    - file: lem_publications
+    - file: hips_publications
+    - file: dissertations
+    - file: presentations
+
+- file: research_groups
+
+- file: codes
+
+- file: notebooks
+  title: example of using jupyter notebooks
+
+
+
