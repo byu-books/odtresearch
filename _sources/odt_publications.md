@@ -12,9 +12,12 @@
 
 ## Channel and pipe flows
 
+- R.C. Schmidt, A.R. Kerstein, R. McDermott, "ODTLES: A multi-scal model for 3D turbulent flow based on one-dimensional turbulence modeling," Computer Methods in Applied Mechanics and Engineering, [199:865-880](https://doi.org/10.1016/j.cma.2008.05.028) (2010).
+
 - J.A. Medina, M. H. Schmidt, D.O. Lignell, "Application of the one dimensional turbulence model to incompressible channel and pipe flow," submitted to the Journal of Applied Mathematics and Mechanics, May 2019, [Preprint](https://ignite.byu.edu/public/Medina__2019.pdf).
 
 - Rakhi, D.O. Lignell, H. Schmidt, "Investigating spatially developing turbulent boundary layers with uniform blowing using a one-dimensional stochastic turbulence model," submitted to Flow, Turbulence and Combustion, May 2020, [Preprint](https://ignite.byu.edu/public/Rakhi_2020.pdf).
+
 
 ## Particle flows
 
@@ -34,12 +37,21 @@
 
 ## Combustion
 
-- D.O. Lignell, G.C. Fredline, and A.D. Lewis "Comparison of one-dimensional turbulence and direct numerical simulation of soot formation and transport in a nonpremixed ethylene jet flame," Proceedings of the Combustion Institute, [DOI 10.1016/j.proci.2014.05.046](http://dx.doi.org/10.1016/j.proci.2014.05.046) (2014). [Accepted paper](https://ignite.byu.edu/public/Lignell_2014.pdf)[ &copy;.](https://www.elsevier.com/about/company-information/policies/sharing)
+- J.C. Hewson, A.R. Kerstein, "Stochastic simulation of transport and chemical kinetics in turbulent CO/H2/N2 flames," Combustion Theory and Modelling, [5:669-697](https://doi.org/10.1088/1364-7830/5/4/309) (2001).
 
-- A. Abdelsamie, D.O. Lignell, D. Thevenin, "Comparison between ODT and DNS for ignition occurrence in turbulent premixed jet combustion: Safety-relevant applications," Zeitschrift F&#252;r Physikalische Chemie, [231(10):1709-1735](https://doi.org/10.1515/zpch-2016-0902), DOI: 10.1515/zpch-2016-0902 (2017). [Published Paper](https://ignite.byu.edu/public/Abdelsamie_2017.pdf). The final publication is available at www.degruyter.com. [&copy;.](https://www.degruyter.com/page/2301)
+- J.C. Hewson, A.R. Kerstein, "Local extinction and reignition in nonpremixed turbulent CO/H2/N2 jet flames," Combustion Science and Technology, [174:35-66](https://doi.org/10.1080/713713031) (2002).
+
+- N. Punati, J.C. Sutherland, A.R. Kerstein, E.R. Hawkes, J.H. Chen, "An evaluation of the one-dimensional turbulence model: comparison with direct numerical simulations of CO/H2 Jets with extinction and reignition," Proceedings of the  Combustion Institute [33:1515-1522](https://doi:10.1016/j.proci.2010.06.127) (2011).
 
 - D.O. Lignell, D.S. Rappleye, "One-dimensional-turbulence simulation of flame extinction and reignition in planar ethylene jet flames," Combustion and Flame, [159:2930-2943](http://www.sciencedirect.com/science/article/pii/S001021801200106X%22) (2012). [Accepted Paper](https://ignite.byu.edu/public/Lignell_2012.pdf) [ &copy;](https://www.elsevier.com/about/company-information/policies/sharing)
 
+- D.O. Lignell, G.C. Fredline, and A.D. Lewis "Comparison of one-dimensional turbulence and direct numerical simulation of soot formation and transport in a nonpremixed ethylene jet flame," Proceedings of the Combustion Institute, [DOI 10.1016/j.proci.2014.05.046](http://dx.doi.org/10.1016/j.proci.2014.05.046) (2014). [Accepted paper](https://ignite.byu.edu/public/Lignell_2014.pdf)[ &copy;.](https://www.elsevier.com/about/company-information/policies/sharing)
+
+- B..Goshayeshi, J.C. Sutherland, "Prediction of oxy-coal flame stand-off using high-fidelity thermochemical models and the one-dimensional turbulence model," Proceedings of the Combustion Institute [35:2829-2837](https://doi.org/10.1016/j.proci.2014.07.003) (2015).
+
+- N. Punati, H. Wang, E.R. Hawkes, J.C. Sutherland, "One-dimensional modeling of turbulent premixed jet flames-comparison to DNS," Flow, Turbulence and Combustion [97:913–930](https://doi.org/10.1007/s10494-016-9721-x) (2016).
+
+- A. Abdelsamie, D.O. Lignell, D. Thevenin, "Comparison between ODT and DNS for ignition occurrence in turbulent premixed jet combustion: Safety-relevant applications," Zeitschrift F&#252;r Physikalische Chemie, [231(10):1709-1735](https://doi.org/10.1515/zpch-2016-0902), DOI: 10.1515/zpch-2016-0902 (2017). [Published Paper](https://ignite.byu.edu/public/Abdelsamie_2017.pdf). The final publication is available at www.degruyter.com. [&copy;.](https://www.degruyter.com/page/2301)
 
 ## Code
 
