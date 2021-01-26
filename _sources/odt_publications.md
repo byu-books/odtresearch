@@ -4,6 +4,8 @@
 
 - A.R. Kerstein, "One-dimensional turbulence: {M}odel formulation and application to homogeneous turbulence, shear flows, and buoyant stratified flows," Journal of Fluid Mechanics [392:277-334](https://doi.org/10.1017/S0022112099005376) (1999).
 
+- A.R. Kerstein, "One-dimensional turbulence: vector formulation and application to free shear flows," Journal of Fluid Mechanics [447:85-109](https://doi.org/10.1017/S0022112001005778) (2001).
+
 - D.O. Lignell, A.R. Kerstein, G. Sun, E.I. Monson, "Mesh adaption for efficient multiscale implementation of one-dimensional turbulence," Theoretical and Computational Fluid Dynamics [27(3):273-295](http://link.springer.com/article/10.1007/s00162-012-0267-9) (2013). [Accepted paper](https://ignite.byu.edu/public/ODTmethod.pdf)[ &copy;.](http://www.springer.com/gp/open-access/authors-rights/self-archiving-policy/2124)
 
 - D.O. Lignell, V.B. Lansinger, J. Medina, M. Klein, A.R. Kerstein, H. Schmidt, M. Fistler, M. Oevermann, "One-dimensional turbulence modeling for cylindrical and spherical flows: model formulation and application," Theoretical and Computational Fluid Dynamics, [32(4):495-520](https://link.springer.com/article/10.1007/s00162-018-0465-1) (2018). [Accepted Paper](https://ignite.byu.edu/public/Lignell_2018.pdf) [ &copy;](http://www.springer.com/gp/open-access/authors-rights/self-archiving-policy/2124).
