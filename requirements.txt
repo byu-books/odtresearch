@@ -1,4 +1,4 @@
 jupyter-book
+ghp-import
 matplotlib
 numpy
-ghp-import
