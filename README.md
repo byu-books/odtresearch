@@ -13,7 +13,7 @@ If you'd like to develop on and build the odtresearch book, you should:
 - (Recommended) Remove the existing `odtresearch/_build/` directory
 - Run `jupyter-book build odtresearch/`
 
-A fully-rendered HTML version of the book will be built in `odtresearch/_build/html/` which you can view in a browser.
+A fully-rendered HTML version of the book will be built in `odtresearch/_build/html/index.html` which you can view in a browser.
 
 ### Hosting the book
 
@@ -25,7 +25,7 @@ This will automatically push your build to the `gh-pages` branch. More informati
 ### Build script
 - To simplify the building and publishing of the book, there is a simple build script at `odtresearch/buildit.sh`.
     - To just build the document locally, run `./buildit.sh`.
-        - This will build the document in place and you can view it locally by pointing your browser to `odtresearch/_build/html`
+        - This will build the document in place and you can view it locally by pointing your browser to `odtresearch/_build/html/index.html`
     - To build the document and then publish online, run `./buildit.sh -w`.
 
 ## Contributors
