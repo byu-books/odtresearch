@@ -13,7 +13,8 @@
     - file: lem_publications
     - file: hips_publications
     - file: dissertations
-    - file: presentations
+
+- file: presentations
 
 - file: research_groups
 
