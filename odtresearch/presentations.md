@@ -7,7 +7,7 @@
 <iframe width="450" height="253" src="https://www.youtube.com/embed/Lt0VilycxQY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - "One-Dimensional Turbulence aspects of internally convective flows," J. Medina, M. Klein, H. Schmidt.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTuzvVEOhvc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="253" src="https://www.youtube.com/embed/NTuzvVEOhvc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - "EHD turbulence in channel flows with inhomogeneous electric fields: A one-dimensional turbulence study,"H. Schmidt, J. Medina, M. Klein.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mzaaithpCPM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="253" src="https://www.youtube.com/embed/mzaaithpCPM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
