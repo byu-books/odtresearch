@@ -15,6 +15,9 @@
 - "Economical approaches for simulating droplet microphysics in turbulent clouds," S.K. Krueger, A.R. Kerstein.
 <iframe width="400" height="225" src="https://www.youtube.com/embed/viF6rQk4X-I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+- "Inhomogeneous mixing processes in clouds: toward mixed-phase clouds," F. Hoffmann.
+<iframe width="400" height="225" src="https://www.youtube.com/embed/04Uzpi8MmvY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - "One-Dimensional Turbulence aspects of internally convective flows," J. Medina, M. Klein, H. Schmidt. [Link to video](https://www.b-tu.de/media/m/6690dbad1b8aec288f1d9be022badf1f509c820a20a3198bec549d485d80ea247a1011093885b7c84f246c4928ddb5e860304b0b19328c7a14268b4310ab7e7e).
 <iframe width="400" height="225" src="https://www.youtube.com/embed/NTuzvVEOhvc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
