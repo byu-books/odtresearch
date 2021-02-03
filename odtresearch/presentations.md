@@ -10,7 +10,7 @@
 <iframe width="400" height="225" src="https://www.youtube.com/embed/mzaaithpCPM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - "An eddy viscosity approach for the One-Dimensional Turbulence model of high Reynolds number flows," L.S. Freire.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UugeaVMoBek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/UugeaVMoBek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - "Economical approaches for simulating droplet microphysics in turbulent clouds," S.K. Krueger, A.R. Kerstein.
 <iframe width="400" height="225" src="https://www.youtube.com/embed/viF6rQk4X-I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
