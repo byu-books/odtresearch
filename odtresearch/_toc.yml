@@ -7,9 +7,10 @@
   sections:
     - file: theory/triplet_map
 
-- file: odt_publications
+- file: publications
   title: Publications
   sections: 
+    - file: odt_publications
     - file: lem_publications
     - file: hips_publications
     - file: dissertations
