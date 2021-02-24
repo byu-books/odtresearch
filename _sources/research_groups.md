@@ -4,6 +4,7 @@ A number of research groups and individuals have been involved in ODT, LEM, and 
 - [Computational Turbulent Reacting Flow Research Lab](https://ignite.byu.edu) at Brigham Young University led by David Lignell.
 - [Numerical Fluids and Gasdynamics Lab](https://www.b-tu.de/en/fg-stroemungsmodellierung/divisions/numerical-fluid-and-gasdynamics) led by Heiko Schmidt at Brandenburg University of Technology at Cottbus-Senftenberg.
 - Oevermann Research Lab led by Michael Oevermann at Brandenburg University of Technology at Cottbus-Senftenberg.
+- [Computational Combustion and Energy Sciences Lab](https://echekki.wordpress.ncsu.edu/) at North Carolina State University, led by Tarek Echekki.
 - [Computational Combustion Lab](http://www.ccl.gatech.edu/) at Georgia Tech. led by Suresh Menon.
 - [Sutherland research group](https://sutherland.che.utah.edu/) at the University of Utah led by James Sutherland.
 - [Krueger research group](https://faculty.utah.edu/u0034822-STEVEN_K_KRUEGER/research/index.hml#research_groups) at the University of Utah led by Steven K. Krueger.
