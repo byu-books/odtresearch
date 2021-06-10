@@ -266,6 +266,11 @@
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#fire-supression">
+   Fire Supression
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#combustion">
    Combustion
   </a>
@@ -273,6 +278,36 @@
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#code">
    Code
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#fuel">
+   Fuel
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#boundary-layer">
+   Boundary Layer
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#meteorology">
+   Meteorology
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#environment-ecosystem">
+   Environment/Ecosystem
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#computational-approach-comparison">
+   Computational Approach/Comparison
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#les-odt">
+   LES-ODT
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
@@ -296,38 +331,51 @@
 <div class="section" id="foundational">
 <h2>Foundational<a class="headerlink" href="#foundational" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li><p>A.R. Kerstein, “One-dimensional turbulence: {M}odel formulation and application to homogeneous turbulence, shear flows, and buoyant stratified flows,” Journal of Fluid Mechanics <a class="reference external" href="https://doi.org/10.1017/S0022112099005376">392:277-334</a> (1999).</p></li>
-<li><p>A.R. Kerstein, “One-dimensional turbulence: vector formulation and application to free shear flows,” Journal of Fluid Mechanics <a class="reference external" href="https://doi.org/10.1017/S0022112001005778">447:85-109</a> (2001).</p></li>
-<li><p>D.O. Lignell, A.R. Kerstein, G. Sun, E.I. Monson, “Mesh adaption for efficient multiscale implementation of one-dimensional turbulence,” Theoretical and Computational Fluid Dynamics <a class="reference external" href="http://link.springer.com/article/10.1007/s00162-012-0267-9">27(3):273-295</a> (2013). <a class="reference external" href="https://ignite.byu.edu/public/ODTmethod.pdf">Accepted paper</a><a class="reference external" href="http://www.springer.com/gp/open-access/authors-rights/self-archiving-policy/2124"> ©.</a></p></li>
-<li><p>D.O. Lignell, V.B. Lansinger, J. Medina, M. Klein, A.R. Kerstein, H. Schmidt, M. Fistler, M. Oevermann, “One-dimensional turbulence modeling for cylindrical and spherical flows: model formulation and application,” Theoretical and Computational Fluid Dynamics, <a class="reference external" href="https://link.springer.com/article/10.1007/s00162-018-0465-1">32(4):495-520</a> (2018). <a class="reference external" href="https://ignite.byu.edu/public/Lignell_2018.pdf">Accepted Paper</a> <a class="reference external" href="http://www.springer.com/gp/open-access/authors-rights/self-archiving-policy/2124"> ©</a>.</p></li>
+<li><p>A.R. Kerstein, “One-Dimensional Turbulence: Model formulation and application to homogeneous turbulence, shear flows, and buoyant stratified flows,” Journal of Fluid Mechanics, <a class="reference external" href="https://doi.org/10.1017/S0022112099005376">392:277-334</a> (1999).</p></li>
+<li><p>A.R. Kerstein, “One-Dimensional Turbulence: vector formulation and application to free shear flows,” Journal of Fluid Mechanics, <a class="reference external" href="https://doi.org/10.1017/S0022112001005778">447:85-109</a> (2001).</p></li>
+<li><p>D.O. Lignell, A.R. Kerstein, G. Sun, E.I. Monson, “Mesh adaption for efficient multiscale implementation of One-Dimensional Turbulence,” Theoretical and Computational Fluid Dynamics, <a class="reference external" href="http://link.springer.com/article/10.1007/s00162-012-0267-9">27(3):273-295</a> (2013). <a class="reference external" href="https://ignite.byu.edu/public/ODTmethod.pdf">Accepted paper</a><a class="reference external" href="http://www.springer.com/gp/open-access/authors-rights/self-archiving-policy/2124"> ©.</a></p></li>
+<li><p>D.O. Lignell, V.B. Lansinger, J. Medina, M. Klein, A.R. Kerstein, H. Schmidt, M. Fistler, M. Oevermann, “One-Dimensional Turbulence modeling for cylindrical and spherical flows: model formulation and application,” Theoretical and Computational Fluid Dynamics, <a class="reference external" href="https://link.springer.com/article/10.1007/s00162-018-0465-1">32(4):495-520</a> (2018). <a class="reference external" href="https://ignite.byu.edu/public/Lignell_2018.pdf">Accepted Paper</a> <a class="reference external" href="http://www.springer.com/gp/open-access/authors-rights/self-archiving-policy/2124"> ©</a>.</p></li>
 </ul>
 </div>
 <div class="section" id="channel-and-pipe-flows">
 <h2>Channel and pipe flows<a class="headerlink" href="#channel-and-pipe-flows" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li><p>R.C. Schmidt, A.R. Kerstein, R. McDermott, “ODTLES: A multi-scal model for 3D turbulent flow based on one-dimensional turbulence modeling,” Computer Methods in Applied Mechanics and Engineering, <a class="reference external" href="https://doi.org/10.1016/j.cma.2008.05.028">199:865-880</a> (2010).</p></li>
-<li><p>J.A. Medina, M. H. Schmidt, D.O. Lignell, “Application of the one dimensional turbulence model to incompressible channel and pipe flow,” submitted to the Journal of Applied Mathematics and Mechanics, May 2019, <a class="reference external" href="https://ignite.byu.edu/public/Medina__2019.pdf">Preprint</a>.</p></li>
-<li><p>Rakhi, D.O. Lignell, H. Schmidt, “Investigating spatially developing turbulent boundary layers with uniform blowing using a one-dimensional stochastic turbulence model,” submitted to Flow, Turbulence and Combustion, May 2020, <a class="reference external" href="https://ignite.byu.edu/public/Rakhi_2020.pdf">Preprint</a>.</p></li>
+<li><p>R.C. Schmidt, A.R. Kerstein, R. McDermott, “ODTLES: A multi-scal model for 3D turbulent flow based on One-Dimensional Turbulence modeling,” Computer Methods in Applied Mechanics and Engineering, <a class="reference external" href="https://doi.org/10.1016/j.cma.2008.05.028">199:865-880</a> (2010).</p></li>
+<li><p>J.A. Medina, M. H. Schmidt, D.O. Lignell, “Application of the One-Dimensional Turbulence model to incompressible channel and pipe flow,” submitted to the Journal of Applied Mathematics and Mechanics, May 2019, <a class="reference external" href="https://ignite.byu.edu/public/Medina__2019.pdf">Preprint</a>.</p></li>
+<li><p>Rakhi, D.O. Lignell, H. Schmidt, “Investigating spatially developing turbulent boundary layers with uniform blowing using a One-Dimensional stochastic Turbulence model,” submitted to Flow, Turbulence and Combustion, May 2020, <a class="reference external" href="https://ignite.byu.edu/public/Rakhi_2020.pdf">Preprint</a>.</p></li>
 </ul>
 </div>
 <div class="section" id="particle-flows">
 <h2>Particle flows<a class="headerlink" href="#particle-flows" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li><p>M. Fistler, A.R. Kerstein, D.O. Lignell, M. Oevermann, “Turbulence modulation in particle-laden, stationary homogeneous isotropic turbulence using One-Dimensional Turbulence” Physical Review Fluids <a class="reference external" href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.5.044308">5:044308</a> (2020), <a class="reference external" href="https://ignite.byu.edu/public/Fistler_2020.pdf">Paper</a>.</p></li>
-<li><p>G. Sun, D.O. Lignell, J.C. Hewson, C. Gin, “Particle dispersion in homogeneous turbulence using the one-dimensional turbulence model,” Physics of Fluids, <a class="reference external" href="http://scitation.aip.org/content/aip/journal/pof2/26/10/10.1063/1.4896555">26:103301</a> (2014). <a class="reference external" href="https://ignite.byu.edu/public/Sun_2014.pdf">Published paper</a><a class="reference external" href="https://publishing.aip.org/authors/web-posting-guidelines"> ©.</a></p></li>
-<li><p>G. Sun, J.C. Hewson, D.O. Lignell, “Evaluation of stochastic particle dispersion modeling in turbulent round jets,” International Journal of Multiphase Flow, <a class="reference external" href="http://dx.doi.org/10.1016/j.ijmultiphaseflow.2016.10.005">89:108-122</a> (2017). <a class="reference external" href="https://ignite.byu.edu/public/Sun_2016.pdf">Accepted Paper</a> <a class="reference external" href="https://www.elsevier.com/connect/elsevier-updates-its-policies-perspectives-and-services-on-article-sharing"> ©</a></p></li>
+<li><p>M. Fistler, A.R. Kerstein, S. Wunsch, M. Oevermann. “Turbulence modulation in particle-laden stationary homogeneous shear turbulence using One-Dimensional Turbulence.” Physical Review Fluids, <a class="reference external" href="https://doi.org/10.1103/PhysRevFluids.5.124303">5:124303</a> (2020).</p></li>
+<li><p>G. Sun, D.O. Lignell, J.C. Hewson, C. Gin, “Particle dispersion in homogeneous turbulence using the One-Dimensional Turbulence model,” Physics of Fluids, <a class="reference external" href="http://scitation.aip.org/content/aip/journal/pof2/26/10/10.1063/1.4896555">26:103301</a> (2014). <a class="reference external" href="https://ignite.byu.edu/public/Sun_2014.pdf">Published paper ©</a>.</p></li>
+<li><p>G. Sun, J.C. Hewson, D.O. Lignell, “Evaluation of stochastic particle dispersion modeling in turbulent round jets,” International Journal of Multiphase Flow, <a class="reference external" href="http://dx.doi.org/10.1016/j.ijmultiphaseflow.2016.10.005">89:108-122</a> (2017). <a class="reference external" href="https://ignite.byu.edu/public/Sun_2016.pdf">Accepted Paper ©</a></p></li>
+<li><p>M. Fistler, A.R. Kerstein, S. Wunsch, M. Oevermann. “Turbulence modulation in particle-laden stationary homogeneous shear turbulence using One-Dimensional Turbulence.” Physical Review Fluids, <a class="reference external" href="https://doi.org/10.1103/PhysRevFluids.5.124303">5:124303</a> (2020).</p></li>
+<li><p>J.R. Schmidt, J.O.L. Wendt, A.R. Kerstein. “Non-equilibrium wall deposition of inertial particles in turbulent flow.” Journal of Statistical Physics, <a class="reference external" href="https://doi.org/10.1007/s10955-009-9844-8">137(2):233-257</a> (2009).</p></li>
 </ul>
 </div>
 <div class="section" id="buoyant-flows">
 <h2>Buoyant flows<a class="headerlink" href="#buoyant-flows" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li><p>E.D. Gonzalez-Juez, A.R. Kerstein, D.O. Lignell, “Reactive Rayleigh-Taylor turbulent mixing: a one-dimensional turbulence study,” Geophysical and Astrophysical Fluid Dynamics, <a class="reference external" href="http://www.tandfonline.com/doi/full/10.1080/03091929.2012.736504#.UyxeGOddW0t%22">107:506-525</a> (2013). <a class="reference external" href="https://ignite.byu.edu/public/Esteban_2013.pdf">Accepted paper</a><a class="reference external" href="http://authorservices.taylorandfrancis.com/sharing-your-work/"> ©.</a></p></li>
+<li><p>E.D. Gonzalez-Juez, A.R. Kerstein, D.O. Lignell, “Reactive Rayleigh-Taylor turbulent mixing: a One-Dimensional Turbulence study,” Geophysical and Astrophysical Fluid Dynamics, <a class="reference external" href="http://www.tandfonline.com/doi/full/10.1080/03091929.2012.736504#.UyxeGOddW0t%22">107:506-525</a> (2013). <a class="reference external" href="https://ignite.byu.edu/public/Esteban_2013.pdf">Accepted paper</a><a class="reference external" href="http://authorservices.taylorandfrancis.com/sharing-your-work/"> ©.</a></p></li>
+</ul>
+<ul class="simple">
+<li><p>T.D. Dreeben, A.R. Kerstein. “Simulation of vertical slot convection using `One-Dimensional Turbulence’.” International Journal of Heat and Mass Transfer, <a class="reference external" href="https://doi.org/10.1016/S0017-9310(00)00012-0">43(20):3823-3834</a> (2000).</p></li>
 </ul>
 </div>
 <div class="section" id="fire">
 <h2>Fire<a class="headerlink" href="#fire" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li><p>E.I. Monson, D.O. Lignell, M.A. Finney, C. Werner, Z. Jozefik, A.R. Kerstein, R.S. Hintze, “Simulation of an ethylene wall fire using the spatially-evolving one-dimensional turbulence model,” Fire Technology, Special Issue on Validation and Fire Modelling, <a class="reference external" href="http://rdcu.be/ogEi">52(1):167-196</a> (2016). <a class="reference external" href="https://ignite.byu.edu/public/Monson_2016_wall_fire.pdf">Accepted paper</a><a class="reference external" href="http://www.springer.com/gp/open-access/authors-rights/self-archiving-policy/2124"> ©.</a></p></li>
+<li><p>E.I. Monson, D.O. Lignell, M.A. Finney, C. Werner, Z. Jozefik, A.R. Kerstein, R.S. Hintze, “Simulation of an ethylene wall fire using the spatially-evolving One-Dimensional Turbulence model,” Fire Technology, Special Issue on Validation and Fire Modelling, <a class="reference external" href="http://rdcu.be/ogEi">52(1):167-196</a> (2016). <a class="reference external" href="https://ignite.byu.edu/public/Monson_2016_wall_fire.pdf">Accepted paper</a><a class="reference external" href="http://www.springer.com/gp/open-access/authors-rights/self-archiving-policy/2124"> ©.</a></p></li>
+<li><p>A.J. Ricks, J.C. Hewson, A.R. Kerstein, J.P. Gore, S.R. Tieszen, W.T. Ashurst. “A spatially developing One-Dimensional Turbulence (ODT) study of soot and enthalpy evolution in meter-scale buoyant turbulent flames.” Combustion Science and Technology, <a class="reference external" href="https://doi.org/10.1080/00102200903297003">182(1):60-101</a> (2010).</p></li>
+</ul>
+</div>
+<div class="section" id="fire-supression">
+<h2>Fire Supression<a class="headerlink" href="#fire-supression" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>J. An, Y. Jiang, M. Ye, R. Qiu. “One-Dimensional Turbulence simulations and chemical explosive mode analysis for flame suppression mechanism of hydrogen/air flames.” International Journal of Hydrogen Energy, <a class="reference external" href="https://doi.org/10.1016/j.ijhydene.2013.04.032">38(18):7528-7538</a> (2013).</p></li>
+<li><p>Y. Jiang, J. An, R. Qiu, Y. Hu, and N. Zhu. “Improved understanding of fire suppression mechanism with an idealized extinguishing agent.” International Journal of Thermal Sciences, <a class="reference external" href="https://doi.org/10.1016/j.ijthermalsci.2012.08.004">64:22-28</a> (2013).</p></li>
 </ul>
 </div>
 <div class="section" id="combustion">
@@ -335,24 +383,110 @@
 <ul class="simple">
 <li><p>J.C. Hewson, A.R. Kerstein, “Stochastic simulation of transport and chemical kinetics in turbulent CO/H2/N2 flames,” Combustion Theory and Modelling, <a class="reference external" href="https://doi.org/10.1088/1364-7830/5/4/309">5:669-697</a> (2001).</p></li>
 <li><p>J.C. Hewson, A.R. Kerstein, “Local extinction and reignition in nonpremixed turbulent CO/H2/N2 jet flames,” Combustion Science and Technology, <a class="reference external" href="https://doi.org/10.1080/713713031">174:35-66</a> (2002).</p></li>
-<li><p>N. Punati, J.C. Sutherland, A.R. Kerstein, E.R. Hawkes, J.H. Chen, “An evaluation of the one-dimensional turbulence model: comparison with direct numerical simulations of CO/H2 Jets with extinction and reignition,” Proceedings of the  Combustion Institute <a class="reference external" href="https://doi:10.1016/j.proci.2010.06.127">33:1515-1522</a> (2011).</p></li>
-<li><p>D.O. Lignell, D.S. Rappleye, “One-dimensional-turbulence simulation of flame extinction and reignition in planar ethylene jet flames,” Combustion and Flame, <a class="reference external" href="http://www.sciencedirect.com/science/article/pii/S001021801200106X%22">159:2930-2943</a> (2012). <a class="reference external" href="https://ignite.byu.edu/public/Lignell_2012.pdf">Accepted Paper</a> <a class="reference external" href="https://www.elsevier.com/about/company-information/policies/sharing"> ©</a></p></li>
-<li><p>D.O. Lignell, G.C. Fredline, and A.D. Lewis “Comparison of one-dimensional turbulence and direct numerical simulation of soot formation and transport in a nonpremixed ethylene jet flame,” Proceedings of the Combustion Institute, <a class="reference external" href="http://dx.doi.org/10.1016/j.proci.2014.05.046">DOI 10.1016/j.proci.2014.05.046</a> (2014). <a class="reference external" href="https://ignite.byu.edu/public/Lignell_2014.pdf">Accepted paper</a><a class="reference external" href="https://www.elsevier.com/about/company-information/policies/sharing"> ©.</a></p></li>
-<li><p>B..Goshayeshi, J.C. Sutherland, “Prediction of oxy-coal flame stand-off using high-fidelity thermochemical models and the one-dimensional turbulence model,” Proceedings of the Combustion Institute <a class="reference external" href="https://doi.org/10.1016/j.proci.2014.07.003">35:2829-2837</a> (2015).</p></li>
-<li><p>N. Punati, H. Wang, E.R. Hawkes, J.C. Sutherland, “One-dimensional modeling of turbulent premixed jet flames-comparison to DNS,” Flow, Turbulence and Combustion <a class="reference external" href="https://doi.org/10.1007/s10494-016-9721-x">97:913–930</a> (2016).</p></li>
+<li><p>N. Punati, J.C. Sutherland, A.R. Kerstein, E.R. Hawkes, J.H. Chen, “An evaluation of the One-Dimensional Turbulence model: comparison with direct numerical simulations of CO/H2 Jets with extinction and reignition,” Proceedings of the  Combustion Institute, <a class="reference external" href="https://doi:10.1016/j.proci.2010.06.127">33:1515-1522</a> (2011).</p></li>
+<li><p>D.O. Lignell, D.S. Rappleye, “One-Dimensional Turbulence simulation of flame extinction and reignition in planar ethylene jet flames,” Combustion and Flame, <a class="reference external" href="http://www.sciencedirect.com/science/article/pii/S001021801200106X%22">159:2930-2943</a> (2012). <a class="reference external" href="https://ignite.byu.edu/public/Lignell_2012.pdf">Accepted Paper</a> <a class="reference external" href="https://www.elsevier.com/about/company-information/policies/sharing"> ©</a></p></li>
+<li><p>D.O. Lignell, G.C. Fredline, and A.D. Lewis “Comparison of One-Dimensional Turbulence and direct numerical simulation of soot formation and transport in a nonpremixed ethylene jet flame,” Proceedings of the Combustion Institute, <a class="reference external" href="http://dx.doi.org/10.1016/j.proci.2014.05.046">DOI 10.1016/j.proci.2014.05.046</a> (2014). <a class="reference external" href="https://ignite.byu.edu/public/Lignell_2014.pdf">Accepted paper</a><a class="reference external" href="https://www.elsevier.com/about/company-information/policies/sharing"> ©.</a></p></li>
+<li><p>B. Goshayeshi, J.C. Sutherland, “Prediction of oxy-coal flame stand-off using high-fidelity thermochemical models and the One-Dimensional Turbulence model,” Proceedings of the Combustion Institute, <a class="reference external" href="https://doi.org/10.1016/j.proci.2014.07.003">35:2829-2837</a> (2015).</p></li>
+<li><p>N. Punati, H. Wang, E.R. Hawkes, J.C. Sutherland, “One-dimensional modeling of turbulent premixed jet flames-comparison to DNS,” Flow, Turbulence and Combustion, <a class="reference external" href="https://doi.org/10.1007/s10494-016-9721-x">97:913–930</a> (2016).</p></li>
 <li><p>A. Abdelsamie, D.O. Lignell, D. Thevenin, “Comparison between ODT and DNS for ignition occurrence in turbulent premixed jet combustion: Safety-relevant applications,” Zeitschrift Für Physikalische Chemie, <a class="reference external" href="https://doi.org/10.1515/zpch-2016-0902">231(10):1709-1735</a>, DOI: 10.1515/zpch-2016-0902 (2017). <a class="reference external" href="https://ignite.byu.edu/public/Abdelsamie_2017.pdf">Published Paper</a>. The final publication is available at www.degruyter.com. <a class="reference external" href="https://www.degruyter.com/page/2301">©.</a></p></li>
+<li><p>T. Echekki, S.E. Ahmed. “Autoignition of n-heptane in a turbulent co-flowing jet.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/j.combustflame.2015.07.020">162(10):3829-3846</a> (2015)</p></li>
+<li><p>J.A.M. Medina, H. Schmidt, F. Mauss, Z. Jozefik. “Constant volume n-heptane autoignition using One-Dimensional Turbulence.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/j.combustflame.2017.12.015">190:388-401</a> (2018).</p></li>
+<li><p>L. Wang, Y. Jiang, L. Pan, Y. Xia, R. Qiu. “Lagrangian investigation and chemical explosive mode analysis of extinction and re-ignition in H-2/CO/N-2 syngas non-premixed flame.” International Journal of Hydrogen Energy, <a class="reference external" href="https://doi.org/10.1016/j.ijhydene.2016.01.043">41(8):4820-4830</a> (2016).</p></li>
+<li><p>L. Wang, Y. Jiang, R. Qiu. “Chemical explosive mode analysis for local reignition scenarios in H-2/N-2 turbulent diffusion flames.” Energy &amp; Fuels, <a class="reference external" href="https://doi.org/10.1021/acs.energyfuels.6b03175">31(9):9939-9949</a> (2017).</p></li>
+<li><p>T. Echekki, S.F. Ahmed. “Turbulence effects on the autoignition of DME in a turbulent co-flowing jet.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/j.combustflame.2016.12.022">178:70-81</a> (2017).</p></li>
+<li><p>Z. Jozefik, A.R. Kerstein, H. Schmidt. “Simulation of shock-turbulence interaction in non-reactive flow and in turbulent deflagration and detonation regimes using One-Dimensional Turbulence.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/j.combustflame.2015.10.035">164:53-67</a> (2016).</p></li>
+<li><p>W. Yang, B. Liu, H. Zhang, Y. Zhang, Y. Wu, J. Lyu. “Prediction improvements of ignition characteristics of isolated coal particles with a one-dimensional transient model.” Proceedings of the Combustion Institute, <a class="reference external" href="https://doi.org/10.1016/j.proci.2020.06.235">38(3):4083-4089</a> (2021).</p></li>
+<li><p>B. Goshayeshi, J.C. Sutherland. “Prediction of oxy-coal flame stand-off using high-fidelity thermochemical models and the One-Dimensional Turbulence model.” Proceedings of the Combustion Institute, <a class="reference external" href="https://doi.org/10.1016/j.proci.2014.07.003">35(3):2829-2837</a> (2015).</p></li>
+<li><p>H. Mirgolbabaei, T. Echekki. “The reconstruction of thermo-chemical scalars in combustion from a reduced set of their principal components.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/j.combustflame.2014.11.027">162(5):1650-1652</a> (2015).</p></li>
+<li><p>T. Echekki, H. Mirgolbabaei. “Principal component transport in turbulent combustion: a Posteriori analysis.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/j.combustflame.2014.12.011">162(5):1919-1933</a> (2015).</p></li>
+<li><p>L. Zhuo, Y. Jiang, R. Qiu, J. An, W. Xu. “Effects of fuel-side N-2, CO2, H2O dilution on combustion characteristics and NOx formation of syngas turbulent nonpremixed jet flames.” Journal of Engineering for Gas Turbines and Power-Transactions of the ASME, <a class="reference external" href="https://doi.org/10.1115/1.4026427">136:6</a> (2014).</p></li>
+<li><p>B. Ranganath, T. Echekki. “One-Dimensional Turbulence-based closure with extinction and reignition.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/j.combustflame.2008.03.020">154(1-2):23-46</a> (2008).</p></li>
+<li><p>S. Cao, T. Echekki. “A low-dimensional stochastic closure model for combustion large-eddy simulation.” Journal of Turbulence, <a class="reference external" href="https://doi.org/10.1080/14685240701790714">9(2):1-35</a> (2008).</p></li>
 </ul>
 </div>
 <div class="section" id="code">
 <h2>Code<a class="headerlink" href="#code" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li><p>V.B. Stephens, D.O. Lignell, “One-dimensional turbulence (ODT): computationally efficient modeling and simulation of turbulent flows,” SoftwareX, <a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S235271102030354X">13:100641</a> (2020), <a class="reference external" href="https://ignite.byu.edu/public/Stephens_2020.pdf">Paper</a>.</p></li>
+<li><p>V.B. Stephens, D.O. Lignell, “One-Dimensional Turbulence (ODT): computationally efficient modeling and simulation of turbulent flows,” SoftwareX, <a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S235271102030354X">13:100641</a> (2020), <a class="reference external" href="https://ignite.byu.edu/public/Stephens_2020.pdf">Paper</a>.</p></li>
+</ul>
+</div>
+<div class="section" id="fuel">
+<h2>Fuel<a class="headerlink" href="#fuel" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>A. Movaghar, M. Linne, M. Oevermann, F. Meiselbach, H. Schmidt, A.R. Kerstein. “Numerical investigation of turbulent-jet primary breakup using One-Dimensional Turbulence.” International Journal of Multiphase Flow, <a class="reference external" href="https://doi.org/10.1016/j.ijmultiphaseflow.2016.09.023">89:241-254</a> (2017).</p></li>
+<li><p>K.G. Gupta, T. Echekki. “One-Dimensional Turbulence model simulations of autoignition of hydrogen/carbon monoxide fuel mixtures in a turbulent jet.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/j.combustflame.2010.09.003">158(2):327-344</a> (2011).</p></li>
+<li><p>B.D. Gowda, T. Echekki. “Complex injection strategies for hydrogen-fueled HCCI engines.” Fuel, <a class="reference external" href="https://doi.org/10.1016/j.fuel.2012.01.060">97:418-27</a> (2012).</p></li>
+<li><p>B.D. Gowda, T. Echekki. “One-Dimensional Turbulence simulations of hydrogen-fueled HCCI combustion.” International Journal of Hydrogen Energy, <a class="reference external" href="https://doi.org/10.1016/j.ijhydene.2012.02.020">37(9):7912-7924</a> (2012).</p></li>
+<li><p>T. Echekki, K.G. Gupta. “Hydrogen autoignition in a turbulent jet with preheated co-flow air.” International Journal of Hydrogen Energy, <a class="reference external" href="https://doi.org/10.1016/j.ijhydene.2009.06.085">34(19):8352-8377</a> (2009).</p></li>
+<li><p>B. Ranganath, T. Echekki. “ODT closure with extinction and reignition in piloted methane-air jet diffusion flames.” Combustion Science and Technology, <a class="reference external" href="https://doi.org/10.1080/00102200802529993">181(4):570-596</a> (2009).</p></li>
+<li><p>S. Zhang, T. Echekki. “Stochastic modeling of finite-rate chemistry effects in hdrogen-air turbulent jet diffusion flames with helium dilution.” International Journal of Hydrogen Energy, <a class="reference external" href="https://doi.org/10.1016/j.ijhydene.2008.09.018">33(23):7295-7306</a> (2008).</p></li>
+<li><p>B. Ranganath, T. Echekki. “One-Dimensional Turbulence-based closure for turbulent non-premixed flames.” Progress in Computational Fluid Dynamics, <a class="reference external" href="https://doi.org/10.1504/PCFD.2006.010966">6(7):409-418</a> (2006).</p></li>
+<li><p>T. Echekki, A.R. Kerstein, T.D. Dreeben, J.Y. Chen. “`One-Dimensional Turbulence’ simulation of turbulent jet diffusion flames: model formulation and illustrative applications.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/S0010-2180(01)00228-0">125(3):1083-1105</a> (2001).</p></li>
+</ul>
+</div>
+<div class="section" id="boundary-layer">
+<h2>Boundary Layer<a class="headerlink" href="#boundary-layer" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>M.M. Fragner, H. Schmidt. “Investigating asymptotic suction boundary layers using a One-Dimensional Stochastic Turbulence model.” Journal of Turbulence, <a class="reference external" href="https://doi.org/10.1080/14685248.2017.1335869">18(10):899-928</a> (2017).</p></li>
+</ul>
+</div>
+<div class="section" id="meteorology">
+<h2>Meteorology<a class="headerlink" href="#meteorology" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>B. Goger, M.W. Rotach, A. Gohm, O. Fuhrer, I. Stiperski, A.A.M. Holtslag. “The impact of three-dimensional effects on the simulation of turbulence kinetic energy in a major alpine valley.” Boundary-Layer Meteorology, <a class="reference external" href="https://doi.org/10.1007/s10546-018-0341-y">168(1):1-27</a> (2018).</p></li>
+<li><p>S.N. Stechmann. “Multiscale eddy simulation for moist atmospheric convection: preliminary Investigation.” Journal of Computational Physics, <a class="reference external" href="https://doi.org/10.1016/j.jcp.2014.02.009">271:99-117</a> (2014).</p></li>
+<li><p>H. Schmidt, A.R. Kerstein, S. Wunsch, R. Nedelec, B.J. Sayler. “Analysis and numerical simulation of a laboratory analog of radiatively induced cloud-top entrainment.” Theoretical and Computational Fluid Dynamics, <a class="reference external" href="https://doi.org/10.1007/s00162-012-0288-4">27(3-4):377-395</a> (2013).</p></li>
+<li><p>C.K. Kim, S.S. Yum. “A numerical study of sea-fog formation over cold sea surface using a One-Dimensional Turbulence model coupled with the weather research and forecasting model.” Boundary-Layer Meteorology, <a class="reference external" href="https://doi.org/10.1007/s10546-012-9706-9">143(3):481-505</a> (2012).</p></li>
+<li><p>A.R. Kerstein, S. Wunsch. “Simulation of a stably stratified atmospheric boundary layer using One-Dimensional Turbulence.” Boundary-Layer Meteorology, <a class="reference external" href="https://doi.org/10.1007/s10546-005-9004-x">118(2):325-356</a> (2006).</p></li>
+</ul>
+</div>
+<div class="section" id="environment-ecosystem">
+<h2>Environment/Ecosystem<a class="headerlink" href="#environment-ecosystem" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>E.R. Maure, J. Ishizaka, H. Aiki, Y. Mino, N. Yoshie, J.I. Goes, H.R. Gomes, H. Tomita. “One-Dimensional Turbulence-ecosystem model reveals the triggers of the spring bloom in mesoscale eddies.” Journal of Geophysical Research-Oceans, <a class="reference external" href="https://doi.org/10.1029/2018JC014089">123(9):6841-6860</a> (2018).</p></li>
+<li><p>L.S. Freir, M. Chamecki. “A One-Dimensional stochastic model of Turbulence within and above plant canopies.” Agricultural and Forest Meteorology, <a class="reference external" href="https://doi.org/10.1016/j.agrformet.2017.12.211">250:9-23</a> (2018).</p></li>
+<li><p>T. Ling, M. Xu, X.Z. Liang, J.X.L. Wang, Y. Noh. “A multilevel ocean mixed layer model resolving the Diurnal Cycle: development and validation.” Journal of Advances in Modeling Earth Systems, <a class="reference external" href="https://doi.org/10.1002/2015MS000476">7(4):1680-1692</a> (2015).</p></li>
+<li><p>U.T. Skielka, J. Soares, A.P. de Oliveira. “Study of the equatorial Atlantic Ocean mixing layer using a One-Dimensional Turbulence model.” Brazilian Journal of Oceanography, <a class="reference external" href="https://doi.org/10.1590/S1679-87592010000700008">58:57-69</a> (2010).</p></li>
+<li><p>K. Makinson. “Modeling tidal current profiles and vertical mixing beneath Filchner-Ronne Ice Shelf, Antarctica.” Journal of Physical Oceanography, <a class="reference external" href="https://doi.org/10.1175/1520-0485(2002)032%3C0202:MTCPAV%3E2.0.CO;2">32(1):202-215</a> (2002).</p></li>
+<li><p>A.R. Kerstein. “One-Dimensional Turbulence Part 2. Staircases in double-diffusive convection.” Dynamics of Atmospheres and Oceans, <a class="reference external" href="https://doi.org/10.1016/S0377-0265(99)00017-2">30(1):25-46</a> (1999).</p></li>
+</ul>
+</div>
+<div class="section" id="computational-approach-comparison">
+<h2>Computational Approach/Comparison<a class="headerlink" href="#computational-approach-comparison" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>R. Ranade, T. Echekki. “A framework for data-based turbulent combustion closure: A Priori validation.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/j.combustflame.2019.05.028">206:490-505</a> (2019).</p></li>
+<li><p>H. Grosshans, A. Movaghar, L. Cao, M. Oevermann, R.Z. Szasz, L. Fuchs. “Sensitivity of VOF simulations of the liquid jet breakup to physical and numerical parameters.” Computers &amp; Fluids, <a class="reference external" href="https://doi.org/10.1016/j.compfluid.2016.06.018">136:312-323</a> (2016).</p></li>
+<li><p>B. Goshayeshi, J.C. Sutherland. “A comparative study of thermochemistry models for oxy-coal combustion simulation.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/j.combustflame.2015.07.041">162(10):4016-4024</a> (2015).</p></li>
+<li><p>A.W. Abboud, B.B. Schroeder, T. Saad, S.T. Smith, D.D. Harris, D.O. Lignell. “A numerical comparison of precipitating turbulent flows between Large-Eddy Simulation and One-Dimensional Turbulence.” AIChE Journal, <a class="reference external" href="https://doi.org/10.1002/aic.14870">61(10):3185-3197</a> (2015).</p></li>
+<li><p>W.T. Ashurst, A.R. Kerstein, L.M. Pickett, J.B. Ghandhi. “Passive scalar mixing in a spatially developing shear layer: comparison of One-Dimensional Turbulence simulations with experimental results.” Physics of Fluids, <a class="reference external" href="https://doi.org/10.1063/1.1531994">15(2):579-582</a> (2003).</p></li>
+<li><p>Z. Jozefik, A.R. Kerstein, H. Schmidt, S. Lyra, H. Kolla, J.H. Chen. “One-Dimensional Turbulence modeling of a turbulent counterflow flame with comparison to DNS.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/j.combustflame.2015.05.010">162(8):2999-3015</a> (2015).</p></li>
+<li><p>N. Punati, H. Wang, E.R. Hawkes, J.C. Sutherland. “One-Dimensional modeling of Turbulent premixed jet Fflames - comparison to DNS.” Flow Turbulence and Combustion, <a class="reference external" href="https://doi.org/10.1007/s10494-016-9721-x">97(3):913-930</a> (2016).</p></li>
+<li><p>H. Mirgolbabaei, T. Echekki, N. Smaoui. “A nonlinear principal component analysis approach for turbulent combustion composition space.” International Journal of Hydrogen Energy, <a class="reference external" href="https://doi.org/10.1016/j.ijhydene.2013.12.195">39(9):4622-4633</a> (2014).</p></li>
+<li><p>M. Okamura, H. Mori. “Time correlation functions in a similarity approximation for One-Dimensional Turbulence.” Physical Review E, <a class="reference external" href="https://doi.org/10.1103/PhysRevE.79.056312">79:5,2</a> (2009).</p></li>
+<li><p>A.R. Kerstein. “One-Dimensional Turbulence: a new approach to high-fidelity subgrid closure of turbulent flow simulations.” Computer Physics Communications, <a class="reference external" href="https://doi.org/10.1016/S0010-4655(02)00552-0">148(1):1-16</a> (2002).</p></li>
+</ul>
+</div>
+<div class="section" id="les-odt">
+<h2>LES-ODT<a class="headerlink" href="#les-odt" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>A.F. Hoffie, T. Echekki. “A coupled LES-ODT model for spatially-developing turbulent reacting shear layers.” International Journal of Heat and Mass Transfer, <a class="reference external" href="https://doi.org/10.1016/j.ijheatmasstransfer.2018.06.105">127:458-473</a> (2018).</p></li>
+<li><p>S.B. Rejeb and T. Echekki. “Thermal radiation modeling using the LES-ODT framework for turbulent combustion flows.” International Journal of Heat and Mass Transfer, <a class="reference external" href="https://doi.org/10.1016/j.ijheatmasstransfer.2016.09.074">104:1300-1316</a> (2017).</p></li>
+<li><p>Y. Fu, T. Echekki. “Upscaling and downscaling approaches in LES-ODT for turbulent combustion flows.” International Journal for Multiscale Computational Engineering, <a class="reference external" href="https://doi.org/10.1615/IntJMultCompEng.2018021350">16(1):45-76</a> (2018).</p></li>
+<li><p>H. Mirgolbabaei, T. Echekki. “A novel principal component analysis-based acceleration scheme for LES-ODT: an a Priori study.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/j.combustflame.2013.01.007">160(5):898-908</a> (2013).</p></li>
+<li><p>J. Park, T. Echekki. “LES-ODT study of turbulent premixed interacting flames.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/j.combustflame.2011.08.002">159(2):609-620</a> (2012).</p></li>
 </ul>
 </div>
 <div class="section" id="other">
 <h2>Other<a class="headerlink" href="#other" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li><p>E.D. Gonzalez-Juez, A.R. Kerstein, D.O. Lignell, “Fluxes across double-diffusive interfaces: a one-dimensional turbulence study,” Journal of Fluid Mechanics, <a class="reference external" href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=8287567&amp;fulltextType=RA&amp;fileId=S0022112011000784">677:218-254</a> (2011). <a class="reference external" href="https://ignite.byu.edu/public/Esteban_2011.pdf">Accepted paper</a><a class="reference external" href="https://www.cambridge.org/core/services/open-access-policies/open-access-journals/green-open-access-policy-for-journals"> ©.</a></p></li>
+<li><p>V. Giddey, D.W. Meyer, P. Jenny. “Modeling Three-Dimensional Scalar Mixing with Forced One-Dimensional Turbulence.” Physics of Fluids, <a class="reference external" href="https://doi.org/10.1063/1.5055752">30:12</a> (2018).</p></li>
+<li><p>A. Movaghar, M. Linne, M. Herrmann, A.R. Kerstein, M. Oevermann. “Modeling and numerical study of primary breakup under diesel conditions.” International Journal of Multiphase Flow, <a class="reference external" href="https://doi.org/10.1016/j.ijmultiphaseflow.2017.09.002">98:110-119</a> (2018).</p></li>
+<li><p>E.D. Gonzalez-Juez, A.R. Kerstein, L.H. Shih. “Vertical mixing in homogeneous sheared stratified turbulence: a One-Dimensional-Turbulence study.” Physics of Fluids, <a class="reference external" href="https://doi.org/10.1063/1.3592329">23:5</a> (2011).</p></li>
+<li><p>A. Carati, L. Galgani, F. Santolini. “On the energy transfer to small scales in a discrete model of One-Dimensional Turbulence.” Chaos, <a class="reference external" href="https://doi.org/10.1063/1.3156729">19:2</a> (2019).</p></li>
+<li><p>H. Shihn, P.E. DesJardin. “Near-wall modeling of an isothermal vertical wall using One-Dimensional Turbulence.” International Journal of Heat and Mass Transfer, <a class="reference external" href="https://doi.org/10.1016/j.ijheatmasstransfer.2006.09.005">50(7-8):1314-1327</a> (2007).</p></li>
+<li><p>W.T. Ashurst, A.R. Kerstein. “One-Dimensional Turbulence: variable-density formulation and application to mixing layers.” Physics of Fluids, <a class="reference external" href="https://doi.org/10.1063/1.1847413">17:2</a> (2005).</p></li>
+<li><p>A.R. Kerstein, T.D. Dreeben. “Prediction of turbulent free shear flow statistics using a simple stochastic model.” Physics of Fluids, <a class="reference external" href="https://doi.org/10.1063/1.870319">12(2):418-424</a> (2000).</p></li>
 </ul>
 <div class="toctree-wrapper compound">
 </div>
