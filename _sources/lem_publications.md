@@ -42,6 +42,16 @@
 
 - D.M. Martinez, X. Jiang, C. Moulinec, D.R. Emerson. “Numerical simulations of turbulent jet flames with non-premixed combustion of hydrogen-enriched fuels.” Computers & Fluids, [88:688-701](https://doi.org/10.1016/j.compfluid.2013.03.016) (2013).
 
+- G. Eggenspieler, S. Menon. “Combustion and emission modelling near lean blow-out in a gas turbine tngine.” Progress in Computational Fluid Dynamics, An International Journal [5(6):281](https://doi.org/10.1504/pcfd.2005.007062) (2005). 
+
+- G.M. Goldin, S. Menon, W.H. Calhoon Jr. “A Linear Eddy Mixing Model for steady non-premixed turbulent combustion.” In 33rd Aerospace Sciences Meeting and Exhibit. American Institute of Aeronautics and Astronautics, [DOI](https://doi.org/10.2514/6.1995-379) (1995). 
+
+- S. Menon, A.R. Kerstein. “Stochastic simulation of the structure and propagation rate of turbulent premixed flames.” Symposium (International) on Combustion, [24(1):443–450](https://doi.org/10.1016/s0082-0784(06)80057-3) (1992). 
+
+- H.W. Schenck, J.O.L. Wendt, A.R. Kerstein. “Mixing characterization of transient puffs in a rotary kiln incinerator.” Combustion Science and Technology [116–117(1–6):427–453](https://doi.org/10.1080/00102209608935557) (1996). 
+
+- T. Smith, S. Menon. “Model simulations of freely propagating turbulent premixed flames.” Symposium (International) on Combustion, [26(1):299–306](https://doi.org/10.1016/s0082-0784(96)80229-3) (1996). 
+
 ## Turbulent Flows
 
 - P.E. Desjardin, S.H. Frankel. “Linear-Eddy Modeling of nonequilibrium turbulent reacting flows with nonpremixed reactants.” Combustion and Flame, [109(3):471-487](https://doi.org/10.1016/S0010-2180(96)00187-3) (1997).
@@ -64,6 +74,12 @@
 
 - T.M. Smith, S. Menon. “One-dimensional simulations of freely propagating turbulent premixed flames.” Combustion Science and Technology, [128(1-6):99-130](https://doi.org/10.1080/00102209708935706) (1997).
 
+- M.A. Cremer, P.A. McMurtry, A.R. Kerstein. “Effects of turbulence length‐scale distribution on scalar mixing in homogeneous turbulent flow.” Physics of Fluids [6(6):2143–2153](https://doi.org/10.1063/1.868439) (1994).
+
+- T. Smith, S. Menon. “Large-Eddy Simulations of turbulent reacting stagnation point flows.” In 35th Aerospace Sciences Meeting and Exhibit. American Institute of Aeronautics and Astronautics, [DOI](https://doi.org/10.2514/6.1997-372) (1997). 
+
+- M.J. Zimberg, S.H. Frankel, J.P. Gore, Y.R. Sivathanu, "A study of coupled turbulent mixing, soot chemistry, and radiation effects using the Linear Eddy Model," Combustion and Flame, [113:454-469](https://doi.org/10.1016/S0010-2180(97)00175-2) (1998).
+
 ## Dispersion/Diffusion
 
 - D. Frederick, J.Y. Chen. “Effects of differential diffusion on predicted autoignition delay times inspired by H-2/N-2 jet flames in a vitiated coflow using the Linear Eddy Model.” Flow, Turbulence and Combustion, [93(2):283-304](https://doi.org/10.1007/s10494-014-9547-3) (2014).
@@ -79,6 +95,8 @@
 - V.K. Chakravarthy, S Menon. “Linear Eddy Simulations of Reynolds Number and Schmidt Number effects on turbulent scalar mixing.” Physics of Fluids, [13(2):488-499](https://doi.org/10.1063/1.1335540) (2001).
 
 - W.H. Calhoon Jr., A.C. Zambon, B. Sekar, B. Kiel. “Subgrid scale combustion modeling based on stochastic model parameterization.” Journal of Engineering for Gas Turbines and Power-Transactions of the ASME, [134:3](https://doi.org/10.1115/1.4004254) (2012).
+
+- B. Sen, S. Menon. “Artificial neural networks based chemistry-mixing subgrid model for LES.” In 47th AIAA Aerospace Sciences Meeting Including The New Horizons Forum and Aerospace Exposition. American Institute of Aeronautics and Astronautics, [DOI](https://doi.org/10.2514/6.2009-241) (2009).
 
 ## Probability Density Function (PDF)
 
@@ -114,6 +132,12 @@
 
 - H. Wei, J. Yu, L. Zhou, W. Zhao, C. Chen. “The LES and LEM study of end-gas auto-ignition mechanism in a downsized spark ignition engine: effect of turbulence.” Combustion Science and Technology, [191(11):1917-1941](https://doi.org/10.1080/00102202.2018.1539966) (2019).
 
+- V. Sankaran, S. Menon. “Subgrid combustion modeling of 3-D premixed flames in the thin-reaction-zone regime.” Proceedings of the Combustion Institute, [30(1):575–582](https://doi.org/10.1016/j.proci.2004.08.023) (2005). 
+
+- T. Smith, S. Menon. “Subgrid combustion modeling for premixed turbulent reacting flows.” In 36th AIAA Aerospace Sciences Meeting and Exhibit. American Institute of Aeronautics and Astronautics, [DOI](https://doi.org/10.2514/6.1998-242) (1998). 
+
+- V. Sankaran, S. Menon. “LES of scalar mixing in supersonic mixing layers.” Proceedings of the Combustion Institute, [30(2):2835–2842](https://doi.org/10.1016/j.proci.2004.08.027) (2005). 
+
 ## Reactions/Chemistry
 
 - T. Lackmann, A. Nygren, A. Karlsson, M. Oevermann. “Investigation of turbulence-chemistry interactions in a heavy-duty diesel engine with a Representative Interactive Linear Eddy Model.” International Journal of Engine Research, [21(8):1469-1479](https://doi.org/10.1177/1468087418812319) (2020).
@@ -135,6 +159,8 @@
 - F. Hoffmann. “Effects of entrainment and mixing on the Wegener-Bergeron-Findeisen Process.” Journal of the Atmospheric Sciences, [77(6):2279-2296](https://doi.org/10.1175/JAS-D-19-0289.1) (2020).
 
 - F Hoffmann, T. Yamaguchi, G. Feingold. “Inhomogeneous mixing in Lagrangian cloud models: effects on the production of precipitation embryos.” Journal of the Atmospheric Sciences, [76(1):113-133](https://doi.org/10.1175/JAS-D-18-0087.1) (2019).
+
+- S.K. Krueger, C.W. Su, P.A. McMurtry. “Modeling entrainment and finescale mixing in cumulus clouds.” Journal of the Atmospheric Sciences, [54(23):2697–2712](https://doi.org/10.1175/1520-0469(1997)054<2697:meafmi>2.0.co;2) (1997). 
 
 ## Other
 

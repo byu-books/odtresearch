@@ -31,17 +31,23 @@
 
 - J.R. Schmidt, J.O.L. Wendt, A.R. Kerstein. “Non-equilibrium wall deposition of inertial particles in turbulent flow.” Journal of Statistical Physics, [137(2):233-257](https://doi.org/10.1007/s10955-009-9844-8) (2009).
 
+- Y. Wu, P. Smith, J. Thornock, G. Yue, J. Zhang. “A novel method for prediction of particle dispersion in a planar jet using ODT model.” AIChE Annual Meeting, Conference Proceedings, [URL](https://www.researchgate.net/publication/287410139_A_novel_method_for_prediction_of_particle_dispersion_in_a_planar_jet_using_ODT_model) (2007).
+
 ## Buoyant flows
 
-* E.D. Gonzalez-Juez, A.R. Kerstein, D.O. Lignell, "Reactive Rayleigh-Taylor turbulent mixing: a One-Dimensional Turbulence study," Geophysical and Astrophysical Fluid Dynamics, [107:506-525](http://www.tandfonline.com/doi/full/10.1080/03091929.2012.736504#.UyxeGOddW0t") (2013). [Accepted paper](https://ignite.byu.edu/public/Esteban_2013.pdf)[ &copy;.](http://authorservices.taylorandfrancis.com/sharing-your-work/)
+- E.D. Gonzalez-Juez, A.R. Kerstein, D.O. Lignell, "Reactive Rayleigh-Taylor turbulent mixing: a One-Dimensional Turbulence study," Geophysical and Astrophysical Fluid Dynamics, [107:506-525](http://www.tandfonline.com/doi/full/10.1080/03091929.2012.736504#.UyxeGOddW0t") (2013). [Accepted paper](https://ignite.byu.edu/public/Esteban_2013.pdf)[ &copy;.](http://authorservices.taylorandfrancis.com/sharing-your-work/)
 
 - T.D. Dreeben, A.R. Kerstein. “Simulation of vertical slot convection using `One-Dimensional Turbulence’.” International Journal of Heat and Mass Transfer, [43(20):3823-3834](https://doi.org/10.1016/S0017-9310(00)00012-0) (2000).
+
+- A.J. Ricks, J.C. Hewson, A.R. Kerstein, J.P. Gore, S.R. Tieszen, W.T. Ashurst. “A spatially developing One-Dimensional Turbulence (ODT) study of soot and enthalpy evolution in meter-scale buoyant turbulent flames.” Combustion Science and Technology, [182(1):60–101](https://doi.org/10.1080/00102200903297003) (2010). 
 
 ## Fire
 
 - E.I. Monson, D.O. Lignell, M.A. Finney, C. Werner, Z. Jozefik, A.R. Kerstein, R.S. Hintze, "Simulation of an ethylene wall fire using the spatially-evolving One-Dimensional Turbulence model," Fire Technology, Special Issue on Validation and Fire Modelling, [52(1):167-196](http://rdcu.be/ogEi) (2016). [Accepted paper](https://ignite.byu.edu/public/Monson_2016_wall_fire.pdf)[ &copy;.](http://www.springer.com/gp/open-access/authors-rights/self-archiving-policy/2124)
 
 - A.J. Ricks, J.C. Hewson, A.R. Kerstein, J.P. Gore, S.R. Tieszen, W.T. Ashurst. “A spatially developing One-Dimensional Turbulence (ODT) study of soot and enthalpy evolution in meter-scale buoyant turbulent flames.” Combustion Science and Technology, [182(1):60-101](https://doi.org/10.1080/00102200903297003) (2010).
+
+- H. Shihn, P.E. DesJardin. "Simulation of vertical wall ﬁres with One-Dimensional Turbulence modeling." Spring Technical Meeting, The Combustion Institute/Canadian Section, Ontario, Canada, [URL](https://scholar.google.com/scholar?q=%0AShihn%2C%20H.%2C%20DesJardin%2C%20P.E.%3A%20Simulation%20of%20vertical%20wall%20fires%20with%20one-dimensional%20turbulence%20modeling.%20Spring%20Technical%20Meeting%2C%20The%20Combustion%20Institute%2FCanadian%20Section%2C%20Ontario%2C%20Canada%2C%20May%209%E2%80%9312%20%282004%29%0A) (2004).
 
 ## Fire Supression
 
@@ -92,6 +98,8 @@
 - B. Ranganath, T. Echekki. “One-Dimensional Turbulence-based closure with extinction and reignition.” Combustion and Flame, [154(1-2):23-46](https://doi.org/10.1016/j.combustflame.2008.03.020) (2008).
 
 - S. Cao, T. Echekki. “A low-dimensional stochastic closure model for combustion large-eddy simulation.” Journal of Turbulence, [9(2):1-35](https://doi.org/10.1080/14685240701790714) (2008).
+
+- B. Ranganath, T. Echekki. "ODT closure with extinction and reignition in piloted methane-air jet diffusion ﬂame." Combustion Science Technology, [181:570–596](http://dx.doi.org/10.1080/00102200802529993) (2009).
 
 ## Code
 
@@ -170,6 +178,10 @@
 
 - A.R. Kerstein. “One-Dimensional Turbulence: a new approach to high-fidelity subgrid closure of turbulent flow simulations.” Computer Physics Communications, [148(1):1-16](https://doi.org/10.1016/S0010-4655(02)00552-0) (2002).
 
+- N. Punati, J.C. Sutherland. "Application of an Eulerian One-Dimensional Turbulence model to simulation of turbulent jets." U.S. Joint Sections of the Combustion Institute, Ann Arbor, MI, [URL](https://www.researchgate.net/publication/280979059_Application_of_an_Eulerian_One_Dimensional_Turbulence_model_to_Simulation_of_Turbulent_Jets) (2009).
+
+- J.C. Sutherland, N. Punati, A.R. Kerstein. "A uniﬁed approach to the various formulations of the One-Dimensional Turbulence model." Technical Report ICSE100101, The University of Utah Institute for Clean and Secure Energy, [URL](https://collections.lib.utah.edu/ark:/87278/s62n8195) (2010).
+
 ## LES-ODT
 
 - A.F. Hoffie, T. Echekki. “A coupled LES-ODT model for spatially-developing turbulent reacting shear layers.” International Journal of Heat and Mass Transfer, [127:458-473](https://doi.org/10.1016/j.ijheatmasstransfer.2018.06.105) (2018).
@@ -181,6 +193,12 @@
 - H. Mirgolbabaei, T. Echekki. “A novel principal component analysis-based acceleration scheme for LES-ODT: an a Priori study.” Combustion and Flame, [160(5):898-908](https://doi.org/10.1016/j.combustflame.2013.01.007) (2013).
 
 - J. Park, T. Echekki. “LES-ODT study of turbulent premixed interacting flames.” Combustion and Flame, [159(2):609-620](https://doi.org/10.1016/j.combustflame.2011.08.002) (2012).
+
+- T. Echekki, J. Park. "The LES-ODT model for turbulent premixed ﬂames." AIAA-2010-0207, The 48th AIAA Aerospace Sciences Meeting, Orlando, FL, [DOI](https://doi.org/10.2514/6.2010-207) (2010). 
+
+- R.J. McDermott, A.R. Kerstein, R.C. Schmidt, P.J. Smith. “The ensemble mean limit of the One-Dimensional Turbulence model and application to residual stress closure in finite volume Large-Eddy Simulation.” Journal of Turbulence, [6:N31](https://doi.org/10.1080/14685240500293894) (2005). 
+
+- R.C. Schmidt, A.R. Kerstein, S. Wunsch, V. Nilsen. "Near-wall LES closure based on One-Dimensional Turbulence modeling." Journal of Computational Physics, [186:317–355](https://doi.org/10.1016/S0021-9991(03)00071-8) (2003).
 
 ## Other
  
@@ -199,3 +217,5 @@
 - W.T. Ashurst, A.R. Kerstein. “One-Dimensional Turbulence: variable-density formulation and application to mixing layers.” Physics of Fluids, [17:2](https://doi.org/10.1063/1.1847413) (2005).
 
 - A.R. Kerstein, T.D. Dreeben. “Prediction of turbulent free shear flow statistics using a simple stochastic model.” Physics of Fluids, [12(2):418-424](https://doi.org/10.1063/1.870319) (2000).
+
+- S. Wunsch, A.R. Kerstein. “A model for layer formation in stably stratified turbulence.” Physics of Fluids, [13(3):702-712](https://doi.org/10.1063/1.1344182) (2010). 
