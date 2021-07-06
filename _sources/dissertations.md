@@ -14,3 +14,15 @@
 
 - T. Weydahl, [A framework for mixing-reaction closure with the Linear Eddy Model](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/233521), Institutt for energi og prosessteknikk (2010).
 
+- E. Monson, [Simulations of controlled fires using the One-Dimensional Turbulence model with application to fire spread in wildland fires](https://scholarsarchive.byu.edu/etd/3163/), Brigham Young University (2012).
+
+- A. Paudel, [Application of One Dimensional Turbulence (ODT) to model fire spread through biomass fuel bed](https://scholarsarchive.byu.edu/etd/3988/), Brigham Young University (2013).
+
+- D. Harris, [A kinetic study of aqueous calcium carbonate](https://scholarsarchive.byu.edu/etd/3845/), Brigham Young University (2013).
+
+- B. Goshayeshi, [Coal combusion simulation using One-Dimensional Turbulence model](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwifh77vwc_xAhXvm2oFHZrJB2wQFjADegQICBAD&url=https%3A%2F%2Fcore.ac.uk%2Fdownload%2Fpdf%2F276266301.pdf&usg=AOvVaw3J0BTJaeESvZ6nxx2PbKPK), University of Utah (2014). 
+
+- J. Medina, [Application of the One-Dimensional Turbulence model to electrohydrodynamically enhanced internally forced convective flows](https://opus4.kobv.de/opus4-btu/frontdoor/index/index/year/2020/docId/5338), Brandenburg University of Technology Cottbus-Senftenberg (2020).
+
+- A. Abdelsamie, [Direct numerical simulations of turbulent flow and spray combustion](https://opendata.uni-halle.de/bitstream/1981185920/12323/1/Abdelsamie_phd_thesis.pdf), Universität Magdeburg (2017).
+ 
