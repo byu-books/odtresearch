@@ -5,8 +5,8 @@
 #       this will just build the document locally from the sources. 
 #       you can view it locally by viewing _build/html/index.html in a browser
 #   ./buildit.sh -w
-#       This will build the document and then publish it online
-
+#       This will build the document and then publish it online, but you will need to 
+#       commit and push your changes to the master branch separately.
 
 jupyter-book build .
 
