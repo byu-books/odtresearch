@@ -26,3 +26,7 @@
 
 - "Modeling one and two passive scalar mixing in turbulent jets using one-dimensional turbulence," M. Klein, H. Schmidt.
 <iframe width="400" height="225" src="https://www.youtube.com/embed/XpkiUCwbFwQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- "Transition to the ultimate regime in a stochastic model for thermal convection with internal sources," M. Klein, H. Schmidt, A. R. Kerstein – 21st ICTW, July 2021, Twente, The Netherlands (virtual). [Link to video](https://www.b-tu.de/media/video/Transition-to-the-ultimate-regime-in-a-stochastic-model-for-thermal-convection-with-internal-sources/52aa69a52b8ab3ef29cc1d8bf9f20243).
+<iframe src="https://www.b-tu.de/media/media/embed?key=52aa69a52b8ab3ef29cc1d8bf9f20243&width=720&height=405&autoplay=false&autolightsoff=false&loop=false&chapters=false&related=false&responsive=false&t=0" data-src="" class="iframeLoaded" width="400" height="225" frameborder="0" allowfullscreen="allowfullscreen" allowtransparency="true" scrolling="no"></iframe>
+
