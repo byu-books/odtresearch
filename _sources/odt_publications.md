@@ -22,6 +22,8 @@
 
 - J.A. Medina Méndez, H. Schmidt, D.O. Lignell, "Application of the One-Dimensional Turbulence model to incompressible channel and pipe flow," submitted to the Journal of Applied Mathematics and Mechanics, May 2019, [Preprint](https://ignite.byu.edu/public/Medina__2019.pdf).
 
+- Rakhi, D.O. Lignell, H. Schmidt, "Investigating spatially developing turbulent boundary layers with uniform blowing using a One-Dimensional stochastic Turbulence model," submitted to Flow, Turbulence and Combustion, May 2020, [Preprint](https://ignite.byu.edu/public/Rakhi_2020.pdf).
+
 - J.A. Medina Méndez, M. Klein, H. Schmidt, "One-dimensional turbulence investigation of variable density effects due to heat transfer in a low Mach number internal air flow," International Journal of Heat Fluid Flow, [80:108481](https://doi.org/10.1016/j.ijheatfluidflow.2019.108481) (2019).
 
 - J.A. Medina Méndez, M. Klein, H. Schmidt, "The One-Dimensional Turbulence Aspects of Internal Forced Convective Flows," Proc. WCCM ECCOMAS 2020, 2021. [DOI: https://doi.org/10.23967/wccm-eccomas.2020.338](DOI: https://doi.org/10.23967/wccm-eccomas.2020.338).
@@ -31,8 +33,6 @@
 ## Passive scalars and turbulent mixing
 
 - M. Klein, H. Schmidt, "Stochastic Modeling of Passive Scalar Transport in Turbulent Channel Flows at High Schmidt Numbers," Proc. TSFP10, 2017. [URL](http://tsfp10.org/TSFP10_program/2/368.pdf).
-
-- V. Giddey, D.W. Meyer, P. Jenny. “Modeling Three-Dimensional Scalar Mixing with Forced One-Dimensional Turbulence.” Physics of Fluids, [30:12](https://doi.org/10.1063/1.5055752) (2018).
 
 - M. Klein, C. Zenker, H. Schmidt, "Small-scale resolving simulations of the turbulent mixing in confined planar jets using one-dimensional turbulence," Chemical Engineering Science, [204:186-202](https://doi.org/10.1016/j.ces.2019.04.024) (2019).
 
@@ -64,11 +64,7 @@
 
 - S. Wunsch, A.R. Kerstein, "A stochastic model for high-Rayleigh-number thermal convection," Journal of Fluid Mechanics, [528:173-205](https://doi.org/10.1017/S0022112004003258) (2005).
 
-- H. Shihn, P.E. DesJardin. “Near-wall modeling of an isothermal vertical wall using One-Dimensional Turbulence.” International Journal of Heat and Mass Transfer, [50(7-8):1314-1327](https://doi.org/10.1016/j.ijheatmasstransfer.2006.09.005) (2007).
-
 - A.J. Ricks, J.C. Hewson, A.R. Kerstein, J.P. Gore, S.R. Tieszen, W.T. Ashurst. “A spatially developing One-Dimensional Turbulence (ODT) study of soot and enthalpy evolution in meter-scale buoyant turbulent flames.” Combustion Science and Technology, [182(1):60–101](https://doi.org/10.1080/00102200903297003) (2010). 
-
-- E.D. Gonzalez-Juez, A.R. Kerstein, L.H. Shih. “Vertical mixing in homogeneous sheared stratified turbulence: a One-Dimensional-Turbulence study.” Physics of Fluids, [23:5](https://doi.org/10.1063/1.3592329) (2011).
 
 - E.D. Gonzalez-Juez, A.R. Kerstein, D.O. Lignell, "Reactive Rayleigh-Taylor turbulent mixing: a One-Dimensional Turbulence study," Geophysical and Astrophysical Fluid Dynamics, [107:506-525](http://www.tandfonline.com/doi/full/10.1080/03091929.2012.736504#.UyxeGOddW0t") (2013). [Accepted paper](https://ignite.byu.edu/public/Esteban_2013.pdf)[ &copy;.](http://authorservices.taylorandfrancis.com/sharing-your-work/)
 
@@ -190,8 +186,6 @@ Fluid Flow (CMFF’18), J. Vad (Ed.), 2018. ISBN: 978-963313297-5. Accepted pape
 
 - Rakhi, M. Klein, J. A. Medina Méndez, H. Schmidt, "One-dimensional turbulence modelling of incompressible temporally developing turbulent boundary layers with comparison to DNS," Journal of Turbulence, [20:506-543](https://doi.org/10.1080/14685248.2019.1674859) (2019).
 
-- Rakhi, D.O. Lignell, H. Schmidt, "Investigating spatially developing turbulent boundary layers with uniform blowing using a One-Dimensional stochastic Turbulence model," submitted to Flow, Turbulence and Combustion, May 2020, [Preprint](https://ignite.byu.edu/public/Rakhi_2020.pdf).
-
 - Rakhi, H. Schmidt, "One-dimensional turbulence: application to incompressible spatially developing turbulent boundary layers," International Journal of Heat and Fluid Flow, [85:108626](https://doi.org/10.1016/j.ijheatfluidflow.2020.108626) (2020).
 
 ------------------------------------
@@ -217,10 +211,6 @@ Fluid Flow (CMFF’18), J. Vad (Ed.), 2018. ISBN: 978-963313297-5. Accepted pape
 - K. Makinson. “Modeling tidal current profiles and vertical mixing beneath Filchner-Ronne Ice Shelf, Antarctica.” Journal of Physical Oceanography, [32(1):202-215](https://doi.org/10.1175/1520-0485(2002)032<0202:MTCPAV>2.0.CO;2) (2002).
 
 - U.T. Skielka, J. Soares, A.P. de Oliveira. “Study of the equatorial Atlantic Ocean mixing layer using a One-Dimensional Turbulence model.” Brazilian Journal of Oceanography, [58:57-69](https://doi.org/10.1590/S1679-87592010000700008) (2010).
-
-- S. Wunsch, A.R. Kerstein. “A model for layer formation in stably stratified turbulence.” Physics of Fluids, [13(3):702-712](https://doi.org/10.1063/1.1344182) (2010). 
-
-- E.D. Gonzalez-Juez, A.R. Kerstein, D.O. Lignell, "Fluxes across double-diffusive interfaces: a one-dimensional turbulence study," Journal of Fluid Mechanics, [677:218-254](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8287567&fulltextType=RA&fileId=S0022112011000784) (2011). [Accepted paper](https://ignite.byu.edu/public/Esteban_2011.pdf)[ &copy;.](https://www.cambridge.org/core/services/open-access-policies/open-access-journals/green-open-access-policy-for-journals)
 
 - T. Ling, M. Xu, X.Z. Liang, J.X.L. Wang, Y. Noh. “A multilevel ocean mixed layer model resolving the Diurnal Cycle: development and validation.” Journal of Advances in Modeling Earth Systems, [7(4):1680-1692](https://doi.org/10.1002/2015MS000476) (2015).
 
@@ -285,11 +275,20 @@ ODTLES," ZAMM, [98:1907-1923](https://doi.org/10.1002/zamm.201800098) (2018).
 
 ## Other
  
+- E.D. Gonzalez-Juez, A.R. Kerstein, D.O. Lignell, "Fluxes across double-diffusive interfaces: a one-dimensional turbulence study," Journal of Fluid Mechanics, [677:218-254](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8287567&fulltextType=RA&fileId=S0022112011000784) (2011). [Accepted paper](https://ignite.byu.edu/public/Esteban_2011.pdf)[ &copy;.](https://www.cambridge.org/core/services/open-access-policies/open-access-journals/green-open-access-policy-for-journals)
+ 
+- V. Giddey, D.W. Meyer, P. Jenny. “Modeling Three-Dimensional Scalar Mixing with Forced One-Dimensional Turbulence.” Physics of Fluids, [30:12](https://doi.org/10.1063/1.5055752) (2018).
+
 - A. Movaghar, M. Linne, M. Herrmann, A.R. Kerstein, M. Oevermann. “Modeling and numerical study of primary breakup under diesel conditions.” International Journal of Multiphase Flow, [98:110-119](https://doi.org/10.1016/j.ijmultiphaseflow.2017.09.002) (2018).
 
+- E.D. Gonzalez-Juez, A.R. Kerstein, L.H. Shih. “Vertical mixing in homogeneous sheared stratified turbulence: a One-Dimensional-Turbulence study.” Physics of Fluids, [23:5](https://doi.org/10.1063/1.3592329) (2011).
+
 - A. Carati, L. Galgani, F. Santolini. “On the energy transfer to small scales in a discrete model of One-Dimensional Turbulence.” Chaos, [19:2](https://doi.org/10.1063/1.3156729) (2019).
+
+- H. Shihn, P.E. DesJardin. “Near-wall modeling of an isothermal vertical wall using One-Dimensional Turbulence.” International Journal of Heat and Mass Transfer, [50(7-8):1314-1327](https://doi.org/10.1016/j.ijheatmasstransfer.2006.09.005) (2007).
 
 - W.T. Ashurst, A.R. Kerstein. “One-Dimensional Turbulence: variable-density formulation and application to mixing layers.” Physics of Fluids, [17:2](https://doi.org/10.1063/1.1847413) (2005).
 
 - A.R. Kerstein, T.D. Dreeben. “Prediction of turbulent free shear flow statistics using a simple stochastic model.” Physics of Fluids, [12(2):418-424](https://doi.org/10.1063/1.870319) (2000).
 
+- S. Wunsch, A.R. Kerstein. “A model for layer formation in stably stratified turbulence.” Physics of Fluids, [13(3):702-712](https://doi.org/10.1063/1.1344182) (2010). 
