@@ -1,5 +1,7 @@
 # Dissertations and Theses
 
+- T. Wei, [One-Dimensional Turbulence Modeling of Turbulent Wall Bounded Flows](https://www.proquest.com/pqdtglobal/docview/305138078/9F8EA8E0F19B411CPQ/1?accountid=4488), The University of Utah (2004).
+
 - R.J. McDermott, [Toward one-dimensional turbulence subgrid closure for large-eddy simulation](http://erl.lib.byu.edu/login/?url=https://www.proquest.com/dissertations-theses/toward-one-dimensional-turbulence-subgrid-closure/docview/305401834/se-2?accountid=4488), The University of Utah (2005).
 
 - A. Ricks, [A One-Dimensional Turbulence (ODT) study of soot formation, transport, and radiation interactions in meter-scale buoyant turbulent flames](http://erl.lib.byu.edu/login/?url=https://www.proquest.com/dissertations-theses/one-dimensional-turbulence-odt-study-soot/docview/304837386/se-2?accountid=4488), Purdue University (2007).
