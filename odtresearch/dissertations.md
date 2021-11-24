@@ -24,7 +24,7 @@
 
 - F. T. Meiselbach, [Application of ODT to turbulent flow problems](https://nbn-resolving.org/urn:nbn:de:kobv:co1-opus4-34952 ), BTU Cottbus-Senftenberg, Germany, 2015. 
 
-- C. Glawe, [ODTLES: Turbulence ModelingUsing a One-DimensionalTurbulence Closed Extended LargeEddy Simulation Approach](https://refubium.fu-berlin.de/bitstream/handle/fub188/5694/ChristophGlaweThesis_ NachDisputation.pdf?sequence=1&isAllowed=y), FU [Berlin, Germany, 2015.
+- C. Glawe, [ODTLES: Turbulence Modeling Using a One-DimensionalTurbulence Closed Extended Large Eddy Simulation Approach](https://refubium.fu-berlin.de/bitstream/handle/fub188/5694/ChristophGlaweThesis_NachDisputation.pdf?sequence=1&isAllowed=y), Berlin, Germany, 2015.
 
 - Z. Jozefik, [Application of ODT to turbulent combustion problems in incompressible and compressible regimes](https://nbn-resolving.org/urn:nbn:de:kobv:co1-opus4-38653), BTU Cottbus-Senftenberg, Germany, 2016.
 
