@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>LEM publications &#8212; ODT Research</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet" />
-  <link href="_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,47 +20,63 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
     <link rel="stylesheet" type="text/css" href="_static/modify.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.1c5a1a01449ed65a7b51.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
     <script src="_static/underscore.js"></script>
     <script src="_static/doctools.js"></script>
-    <script src="_static/togglebutton.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
-    <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
-    <script>
-        const thebe_selector = ".thebe,.cell"
-        const thebe_selector_input = "pre,.cell_input div.highlight"
-        const thebe_selector_output = ".output,.cell_output"
-    </script>
+    <script src="_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
     <script async="async" src="_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="HiPS publications" href="hips_publications.html" />
     <link rel="prev" title="ODT Publications" href="odt_publications.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="docsearch:language" content="en" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -67,9 +85,10 @@
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
         <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
@@ -87,14 +106,15 @@
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
-        <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="front_page.html">
-   ODT Research
-  </a>
- </li>
-</ul>
-<ul class="current nav bd-sidenav">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="front_page.html">
+                    ODT Research
+                </a>
+            </li>
+        </ul>
+        <ul class="current nav bd-sidenav">
  <li class="toctree-l1 has-children">
   <a class="reference internal" href="theory/theory.html">
    Theory and methods
@@ -162,88 +182,193 @@
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-</div>
-
-
-          
-
-
-          
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
-    
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
             
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
-        
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/lem_publications.md"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
-    </div>
-</div>
-
-            <!-- Source interaction buttons -->
-
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
-        aria-label="Connect with source repository"><i class="fab fa-github"></i></button>
-    <div class="dropdown-buttons sourcebuttons">
-        <a class="repository-button"
-            href="https://github.com/byu-books/odtresearch"><button type="button" class="btn btn-secondary topbarbtn"
-                data-toggle="tooltip" data-placement="left" title="Source repository"><i
-                    class="fab fa-github"></i>repository</button></a>
-        <a class="issues-button"
-            href="https://github.com/byu-books/odtresearch/issues/new?title=Issue%20on%20page%20%2Flem_publications.html&body=Your%20issue%20content%20here."><button
-                type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
-                title="Open an issue"><i class="fas fa-lightbulb"></i>open issue</button></a>
-        <a class="edit-button" href="https://github.com/byu-books/odtresearch/edit/master/lem_publications.md"><button
-                type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
-                title="Edit this page"><i class="fas fa-pencil-alt"></i>suggest edit</button></a>
-    </div>
-</div>
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-        title="Fullscreen mode"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
         </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
 
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show">
-            
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Contents
-            </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-repository-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Source repositories">
+      <i class="fab fa-github"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="https://github.com/byu-books/odtresearch"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Source repository"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="headerbtn__text-container">repository</span>
+</a>
+
+      </li>
+      
+      <li>
+        <a href="https://github.com/byu-books/odtresearch/issues/new?title=Issue%20on%20page%20%2Flem_publications.html&body=Your%20issue%20content%20here."
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Open an issue"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="headerbtn__text-container">open issue</span>
+</a>
+
+      </li>
+      
+      <li>
+        <a href="https://github.com/byu-books/odtresearch/edit/master/lem_publications.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Edit this page"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+<span class="headerbtn__text-container">suggest edit</span>
+</a>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/lem_publications.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#foundational">
    Foundational
@@ -296,19 +421,87 @@
  </li>
 </ul>
 
-            </nav>
-        </div>
-    </div>
+    </nav>
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
-        
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>LEM publications</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#foundational">
+   Foundational
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#combustion-flames">
+   Combustion/Flames
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#turbulent-flows">
+   Turbulent Flows
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#dispersion-diffusion">
+   Dispersion/Diffusion
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#computational-methods-comparison">
+   Computational Methods/Comparison
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#probability-density-function-pdf">
+   Probability Density Function (PDF)
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#large-eddy-simulation-les">
+   Large Eddy Simulation (LES)
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#reactions-chemistry">
+   Reactions/Chemistry
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#meteorology">
+   Meteorology
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#other">
+   Other
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="lem-publications">
-<h1>LEM publications<a class="headerlink" href="#lem-publications" title="Permalink to this headline">¶</a></h1>
-<div class="section" id="foundational">
-<h2>Foundational<a class="headerlink" href="#foundational" title="Permalink to this headline">¶</a></h2>
+  <section class="tex2jax_ignore mathjax_ignore" id="lem-publications">
+<h1>LEM publications<a class="headerlink" href="#lem-publications" title="Permalink to this headline">#</a></h1>
+<section id="foundational">
+<h2>Foundational<a class="headerlink" href="#foundational" title="Permalink to this headline">#</a></h2>
 <ul class="simple">
 <li><p>A.R. Kerstein. “A Linear-Eddy Model of turbulent scalar transport and Mixing.” Combustion Science and Technology, <a class="reference external" href="https://doi.org/10.1080/00102208808923995">60(4-6):391-421</a> (1988).</p></li>
 <li><p>A.R. Kerstein. “Linear-Eddy Modeling of turbulent transport .2. Application to shear-layer mixing.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/0010-2180(89)90051-5">75(3-4):397-413</a> (1989).</p></li>
@@ -319,9 +512,9 @@
 <li><p>A.R. Kerstein. “Linear-Eddy Modeling of turbulent transport .7. Finite-rate chemistry and multistream mixing.” Journal of Fluid Mechanics, <a class="reference external" href="https://doi.org/10.1017/S0022112092000107">240:289-313</a> (1992).</p></li>
 <li><p>P.A. McMurtry, S. Menon, A.R. Kerstein. “Linear Eddy Modeling of Turbulent Combustion.” Energy &amp; Fuels, <a class="reference external" href="https://doi.org/10.1021/ef00042a018">7(6):817-826</a> (1993).</p></li>
 </ul>
-</div>
-<div class="section" id="combustion-flames">
-<h2>Combustion/Flames<a class="headerlink" href="#combustion-flames" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="combustion-flames">
+<h2>Combustion/Flames<a class="headerlink" href="#combustion-flames" title="Permalink to this headline">#</a></h2>
 <ul class="simple">
 <li><p>B.M. Maxwell, S.A.E.G. Falle, G. Sharpe, M.I. Radulescu. “A compressible-LEM turbulent combustion subgrid model for assessing gaseous explosion hazards.” Journal of Loss Prevention in the Process Industries, <a class="reference external" href="https://doi.org/10.1016/j.jlp.2015.01.014">36:460-470</a> (2015).</p></li>
 <li><p>B. Maxwell, A. Pekalski, M. Radulescu. “Modelling of the transition of a turbulent shock-flame complex to detonation using the Linear Eddy Model.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/j.combustflame.2018.02.013">192:340-357</a> (2018).</p></li>
@@ -340,9 +533,9 @@
 <li><p>H.W. Schenck, J.O.L. Wendt, A.R. Kerstein. “Mixing characterization of transient puffs in a rotary kiln incinerator.” Combustion Science and Technology <a class="reference external" href="https://doi.org/10.1080/00102209608935557">116–117(1–6):427–453</a> (1996).</p></li>
 <li><p>T. Smith, S. Menon. “Model simulations of freely propagating turbulent premixed flames.” Symposium (International) on Combustion, <a class="reference external" href="https://doi.org/10.1016/s0082-0784(96)80229-3">26(1):299–306</a> (1996).</p></li>
 </ul>
-</div>
-<div class="section" id="turbulent-flows">
-<h2>Turbulent Flows<a class="headerlink" href="#turbulent-flows" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="turbulent-flows">
+<h2>Turbulent Flows<a class="headerlink" href="#turbulent-flows" title="Permalink to this headline">#</a></h2>
 <ul class="simple">
 <li><p>P.E. Desjardin, S.H. Frankel. “Linear-Eddy Modeling of nonequilibrium turbulent reacting flows with nonpremixed reactants.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/S0010-2180(96)00187-3">109(3):471-487</a> (1997).</p></li>
 <li><p>S.M. De Bruyn Kops, J.J. Riley. “Scalar transport characteristics of the Linear-Eddy Model.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/S0010-2180(97)81773-7">112(1-2):253-260</a> (1998).</p></li>
@@ -358,16 +551,16 @@
 <li><p>T. Smith, S. Menon. “Large-Eddy Simulations of turbulent reacting stagnation point flows.” In 35th Aerospace Sciences Meeting and Exhibit. American Institute of Aeronautics and Astronautics, <a class="reference external" href="https://doi.org/10.2514/6.1997-372">DOI</a> (1997).</p></li>
 <li><p>M.J. Zimberg, S.H. Frankel, J.P. Gore, Y.R. Sivathanu, “A study of coupled turbulent mixing, soot chemistry, and radiation effects using the Linear Eddy Model,” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/S0010-2180(97)00175-2">113:454-469</a> (1998).</p></li>
 </ul>
-</div>
-<div class="section" id="dispersion-diffusion">
-<h2>Dispersion/Diffusion<a class="headerlink" href="#dispersion-diffusion" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="dispersion-diffusion">
+<h2>Dispersion/Diffusion<a class="headerlink" href="#dispersion-diffusion" title="Permalink to this headline">#</a></h2>
 <ul class="simple">
 <li><p>D. Frederick, J.Y. Chen. “Effects of differential diffusion on predicted autoignition delay times inspired by H-2/N-2 jet flames in a vitiated coflow using the Linear Eddy Model.” Flow, Turbulence and Combustion, <a class="reference external" href="https://doi.org/10.1007/s10494-014-9547-3">93(2):283-304</a> (2014).</p></li>
 <li><p>J.Y. Chen, W.C. Chang. “Modeling differential diffusion effects in turbulent nonreacting/reacting jets with stochastic mixing models.” Combustion Science and Technology, <a class="reference external" href="https://doi.org/10.1080/00102209808952039">133(4-6):343-375</a> (1998).</p></li>
 </ul>
-</div>
-<div class="section" id="computational-methods-comparison">
-<h2>Computational Methods/Comparison<a class="headerlink" href="#computational-methods-comparison" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="computational-methods-comparison">
+<h2>Computational Methods/Comparison<a class="headerlink" href="#computational-methods-comparison" title="Permalink to this headline">#</a></h2>
 <ul class="simple">
 <li><p>P.E. Desjardin, S.H. Frankel. “Assessment of turbulent combustion submodels using the Linear Eddy Model.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/0010-2180(95)00133-6">104(3):343-357</a> (1996).</p></li>
 <li><p>J.S. Ochoa, A. Sanchez-Insa, N. Fueyo. “Subgrid Linear Eddy mixing and combustion Modelling of a turbulent nonpremixed piloted jet flame.” Flow, Turbulence and Combustion, <a class="reference external" href="https://doi.org/10.1007/s10494-011-9371-y">89(2):295-309</a> (2012).</p></li>
@@ -375,17 +568,17 @@
 <li><p>W.H. Calhoon Jr., A.C. Zambon, B. Sekar, B. Kiel. “Subgrid scale combustion modeling based on stochastic model parameterization.” Journal of Engineering for Gas Turbines and Power-Transactions of the ASME, <a class="reference external" href="https://doi.org/10.1115/1.4004254">134:3</a> (2012).</p></li>
 <li><p>B. Sen, S. Menon. “Artificial neural networks based chemistry-mixing subgrid model for LES.” In 47th AIAA Aerospace Sciences Meeting Including The New Horizons Forum and Aerospace Exposition. American Institute of Aeronautics and Astronautics, <a class="reference external" href="https://doi.org/10.2514/6.2009-241">DOI</a> (2009).</p></li>
 </ul>
-</div>
-<div class="section" id="probability-density-function-pdf">
-<h2>Probability Density Function (PDF)<a class="headerlink" href="#probability-density-function-pdf" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="probability-density-function-pdf">
+<h2>Probability Density Function (PDF)<a class="headerlink" href="#probability-density-function-pdf" title="Permalink to this headline">#</a></h2>
 <ul class="simple">
 <li><p>G.M. Goldin. “A priori investigation of the constructed PDF model.” Proceedings of the Combustion Institute, <a class="reference external" href="https://doi.org/10.1016/j.proci.2004.08.012">30(1):785-792</a> (2005).</p></li>
 <li><p>H.P. Tsui, M.M. Kamal, S. Hochgreb, W.K. Bushe. “Direct comparison of PDF and scalar dissipation rates between LEM simulations and experiments for turbulent, premixed methane air flames.” Combustion and Flame, <a class="reference external" href="https://doi.org/10.1016/j.combustflame.2015.12.006">165:208-222</a> (2016).</p></li>
 <li><p>G.M. Goldin, S. Menon. “A scalar PDF construction model for turbulent non-premixed combustion.” Combustion Science and Technology, <a class="reference external" href="https://doi.org/10.1080/00102209708935655">125(1-6):47-72</a> (1997).</p></li>
 </ul>
-</div>
-<div class="section" id="large-eddy-simulation-les">
-<h2>Large Eddy Simulation (LES)<a class="headerlink" href="#large-eddy-simulation-les" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="large-eddy-simulation-les">
+<h2>Large Eddy Simulation (LES)<a class="headerlink" href="#large-eddy-simulation-les" title="Permalink to this headline">#</a></h2>
 <ul class="simple">
 <li><p>S. Arshad, B. Kong, A.R. Kerstein, M. Oevermann. “A strategy for large-scale scalar advection in Large Eddy Simulations that use the Linear Eddy sub-grid mixing Model.” International Journal of Numerical Methods for Heat &amp; Fluid Flow, <a class="reference external" href="https://doi.org/10.1108/HFF-09-2017-0387">28(10):2463-2479</a> (2018).</p></li>
 <li><p>V.K. Chakravarthy, S. Menon. “Large-Eddy Simulation of turbulent premixed glames in the flamelet regime.” Combustion Science and Technology, <a class="reference external" href="https://doi.org/10.1080/00102200108952141">162:175+</a> (2001).</p></li>
@@ -403,18 +596,18 @@
 <li><p>T. Smith, S. Menon. “Subgrid combustion modeling for premixed turbulent reacting flows.” In 36th AIAA Aerospace Sciences Meeting and Exhibit. American Institute of Aeronautics and Astronautics, <a class="reference external" href="https://doi.org/10.2514/6.1998-242">DOI</a> (1998).</p></li>
 <li><p>V. Sankaran, S. Menon. “LES of scalar mixing in supersonic mixing layers.” Proceedings of the Combustion Institute, <a class="reference external" href="https://doi.org/10.1016/j.proci.2004.08.027">30(2):2835–2842</a> (2005).</p></li>
 </ul>
-</div>
-<div class="section" id="reactions-chemistry">
-<h2>Reactions/Chemistry<a class="headerlink" href="#reactions-chemistry" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="reactions-chemistry">
+<h2>Reactions/Chemistry<a class="headerlink" href="#reactions-chemistry" title="Permalink to this headline">#</a></h2>
 <ul class="simple">
 <li><p>T. Lackmann, A. Nygren, A. Karlsson, M. Oevermann. “Investigation of turbulence-chemistry interactions in a heavy-duty diesel engine with a Representative Interactive Linear Eddy Model.” International Journal of Engine Research, <a class="reference external" href="https://doi.org/10.1177/1468087418812319">21(8):1469-1479</a> (2020).</p></li>
 <li><p>S.H. Frankel, P.A. McMurtry, P. Givi. “Linear Eddy Modeling of reactant conversion and selectivity in turbulent flows.” AIChE Journal, <a class="reference external" href="https://doi.org/10.1002/aic.690410208">41(2):258-266</a> (1995).</p></li>
 <li><p>S.H. Frankel, C.K. Madnia, P.A. McMurtry, P. Givi. “Binary scalar mixing and reaction in homogeneous turbulence - some Linear Eddy Model results.” Energy &amp; Fuels, <a class="reference external" href="https://doi.org/10.1021/ef00042a019">7(6):827-834</a> (1993).</p></li>
 <li><p>L. Lu, P.M. Najt, T. Kuo, V. Sankaran, J. Oefelein. “A fully integrated Linear Eddy and chemistry agglomeration method with detailed chemical kinetics for studying the effect of stratification on HCCI combustion.” Fuel, <a class="reference external" href="https://doi.org/10.1016/j.fuel.2012.09.031">105:653-663</a> (2013).</p></li>
 </ul>
-</div>
-<div class="section" id="meteorology">
-<h2>Meteorology<a class="headerlink" href="#meteorology" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="meteorology">
+<h2>Meteorology<a class="headerlink" href="#meteorology" title="Permalink to this headline">#</a></h2>
 <ul class="simple">
 <li><p>S.K. Krueger. “Linear Eddy Modeling of entrainment and mixing in stratus clouds.” Journal of the Atmospheric Sciences, <a class="reference external" href="https://doi.org/10.1175/1520-0469(1993)050%3C3078:LEMOEA%3E2.0.CO;2">50(18):3078-3090</a> (1993).</p></li>
 <li><p>C.W. Su, S.K. Krueger, P.A. McMurtry, P.H. Austin. “Linear Eddy Modeling of droplet spectral evolution during entrainment and mixing in cumulus clouds.” Atmospheric Research, <a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S0169809598000398">47-48:41-58</a> (1998).</p></li>
@@ -423,16 +616,16 @@
 <li><p>F Hoffmann, T. Yamaguchi, G. Feingold. “Inhomogeneous mixing in Lagrangian cloud models: effects on the production of precipitation embryos.” Journal of the Atmospheric Sciences, <a class="reference external" href="https://doi.org/10.1175/JAS-D-18-0087.1">76(1):113-133</a> (2019).</p></li>
 <li><p>S.K. Krueger, C.W. Su, P.A. McMurtry. “Modeling entrainment and finescale mixing in cumulus clouds.” Journal of the Atmospheric Sciences, <a class="reference external" href="https://doi.org/10.1175/1520-0469(1997)054%3C2697:meafmi%3E2.0.co;2">54(23):2697–2712</a> (1997).</p></li>
 </ul>
-</div>
-<div class="section" id="other">
-<h2>Other<a class="headerlink" href="#other" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="other">
+<h2>Other<a class="headerlink" href="#other" title="Permalink to this headline">#</a></h2>
 <ul class="simple">
 <li><p>S. Sannan, T. Weydahl, A.R. Kerstein. “Stochastic simulation of scalar mixing capturing unsteadiness and small-scale structure based on mean-flow properties.” Flow, Turbulence and Combustion, <a class="reference external" href="https://doi.org/10.1007/s10494-012-9436-6">90(1):189-216</a> (2013).</p></li>
 <li><p>S.E. Woosley, A.R. Kerstein, V. Sankaran, A.J. Aspden, F.K. Roepke. “Type Ia supernovae: calculations of turbulent flames using the Linear Eddy Model.” Astrophysical Journal, <a class="reference external" href="https://doi.org/10.1088/0004-637X/704/1/255">704(1):255-273</a> (2009).</p></li>
 <li><p>C. Schroedinger, C.O. Paschereit, M. Oevermann. “Numerical studies on the impact of equivalence ratio oscillations on lean premixed flame characteristics and emissions.” Combustion Science and Technology, <a class="reference external" href="https://doi.org/10.1080/00102202.2014.934610">186(10-11):1392-1409</a> (2014).</p></li>
 </ul>
-</div>
-</div>
+</section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -446,7 +639,7 @@
             mode: "python"
         },
         kernelOptions: {
-            kernelName: "python3",
+            name: "python3",
             path: "./."
         },
         predefinedOutput: true
@@ -456,54 +649,48 @@
 
               </div>
               
-        
-            
-
-
-
-<div class='prev-next-bottom'>
-    
-    <div id="prev">
-        <a class="left-prev" href="odt_publications.html" title="previous page">
-            <i class="prevnext-label fas fa-angle-left"></i>
-            <div class="prevnext-info">
-                <p class="prevnext-label">previous</p>
-                <p class="prevnext-title">ODT Publications</p>
-            </div>
-        </a>
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+    <a class='left-prev' id="prev-link" href="odt_publications.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title">ODT Publications</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="hips_publications.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">HiPS publications</p>
     </div>
-     <div id="next">
-        <a class="right-next" href="hips_publications.html" title="next page">
-            <div class="prevnext-info">
-                <p class="prevnext-label">next</p>
-                <p class="prevnext-title">HiPS publications</p>
-            </div>
-            <i class="prevnext-label fas fa-angle-right"></i>
-        </a>
-     </div>
-
+    <i class="fas fa-angle-right"></i>
+    </a>
 </div>
-        
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-    <div class="container">
-      <p>
-        
-          By ODT Researchers<br/>
-        
-            &copy; Copyright 2021.<br/>
-      </p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By ODT Researchers<br/>
+  
+      &copy; Copyright 2021.<br/>
+</p>
+        </footer>
     </div>
-  </footer>
-</main>
+    
+</div>
 
 
       </div>
     </div>
   
-  <script src="_static/js/index.1c5a1a01449ed65a7b51.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
 
-  
+
   </body>
 </html>

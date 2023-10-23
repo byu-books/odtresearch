@@ -28,6 +28,18 @@
 
 ------------------------------------
 
+## Compressible flows
+
+- C.P. Chen, J.H. Liang, T.Y. Gao, X.S. Wu, W.D. Zhao, L. Zhang, "Conservative compressible one-dimensional turbulence formulation and application to high-Reynolds-number compressible turbulent channel flows," Physics of Fluids, [34:65121](https://doi.org/10.1063/5.0093782) (2022).
+
+- T.Y. Gao, H. Schmidt, M. Klein, J.H. Liang, M.B. Sun, C.P. Chen, and Q.D. Guan, "One-dimensional turbulence modeling of compressible flows. I. Conservative Eulerian formulation and application to supersonic channel flow," Physics of Fluids, [35:35115](https://doi.org/10.1063/5.0125514) (2023).
+
+- T.Y. Gao, H. Schmidt, M. Klein, J.H. Liang, M.B. Sun, C.P. Chen, and Q.D. Guan, "One-dimensional turbu-
+lence modeling of compressible flows II. Full compressible modification and application to shock–turbulence interaction," Physics of Fluids [35:35116](https://doi.org/10.1063/5.0137435) (2023).
+
+
+------------------------------------
+
 ## Passive scalars and turbulent mixing
 
 - M. Klein, H. Schmidt, "Stochastic Modeling of Passive Scalar Transport in Turbulent Channel Flows at High Schmidt Numbers," Proc. TSFP10, 2017. [URL](http://tsfp10.org/TSFP10_program/2/368.pdf).
@@ -193,6 +205,9 @@ Fluid Flow (CMFF’18), J. Vad (Ed.), 2018. ISBN: 978-963313297-5. Accepted pape
 - Rakhi, D.O. Lignell, H. Schmidt, "Investigating spatially developing turbulent boundary layers with uniform blowing using a One-Dimensional stochastic Turbulence model," submitted to Flow, Turbulence and Combustion, May 2020, [Preprint](https://ignite.byu.edu/public/Rakhi_2020.pdf).
 
 - Rakhi, H. Schmidt, "One-dimensional turbulence: application to incompressible spatially developing turbulent boundary layers," International Journal of Heat and Fluid Flow, [85:108626](https://doi.org/10.1016/j.ijheatfluidflow.2020.108626) (2020).
+
+- C.P. Chen, J.H. Liang, Q.D. Guan, and T.Y. Gao, "Conservative compressible one-dimensional turbulence
+method and its application in supersonic scalar mixing layer," Acta Aeronautica et Astronautica Sinica. [42:726364]() (2021).
 
 ------------------------------------
 

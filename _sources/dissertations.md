@@ -4,6 +4,8 @@
 
 - R.J. McDermott, [Toward one-dimensional turbulence subgrid closure for large-eddy simulation](http://erl.lib.byu.edu/login/?url=https://www.proquest.com/dissertations-theses/toward-one-dimensional-turbulence-subgrid-closure/docview/305401834/se-2?accountid=4488), The University of Utah (2005).
 
+- S. Cao, [A novel hybrid scheme for large-eddy simulation of turbulent combustion based on the one-dimensional turbulence model](https://repository.lib.ncsu.edu/handle/1840.16/4167?show=full), North Carolina State University, (2006).
+
 - A. Ricks, [A One-Dimensional Turbulence (ODT) study of soot formation, transport, and radiation interactions in meter-scale buoyant turbulent flames](http://erl.lib.byu.edu/login/?url=https://www.proquest.com/dissertations-theses/one-dimensional-turbulence-odt-study-soot/docview/304837386/se-2?accountid=4488), Purdue University (2007).
 
 - N. Krishnamoorthy, [Reaction models and reaction state parameterization for turbulent nonpremixed combustion](http://erl.lib.byu.edu/login/?url=https://www.proquest.com/dissertations-theses/reaction-models-state-parameterization-turbulent/docview/304437899/se-2?accountid=4488), The University of Utah (2008).
