@@ -1,2 +1,0 @@
-# Triplet map
-
