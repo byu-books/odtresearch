@@ -1,7 +1,5 @@
 # ODT Publications
 
-------------------------------------
-
 ## Foundational
 
 - A.R. Kerstein, "One-Dimensional Turbulence: Model formulation and application to homogeneous turbulence, shear flows, and buoyant stratified flows," Journal of Fluid Mechanics, [392:277-334](https://doi.org/10.1017/S0022112099005376) (1999).
@@ -24,7 +22,7 @@
 
 - J.A. Medina Méndez, M. Klein, H. Schmidt, "One-dimensional turbulence investigation of variable density effects due to heat transfer in a low Mach number internal air flow," International Journal of Heat Fluid Flow, [80:108481](https://doi.org/10.1016/j.ijheatfluidflow.2019.108481) (2019).
 
-- J.A. Medina Méndez, M. Klein, H. Schmidt, "The One-Dimensional Turbulence Aspects of Internal Forced Convective Flows," Proc. WCCM ECCOMAS 2020, 2021. [DOI: https://doi.org/10.23967/wccm-eccomas.2020.338](DOI: https://doi.org/10.23967/wccm-eccomas.2020.338).
+- J.A. Medina Méndez, M. Klein, H. Schmidt, "The One-Dimensional Turbulence Aspects of Internal Forced Convective Flows," Proc. WCCM ECCOMAS 2020, 2021. [DOI: https://doi.org/10.23967/wccm-eccomas.2020.338](https://doi.org/10.23967/wccm-eccomas.2020.338).
 
 ------------------------------------
 
@@ -207,7 +205,7 @@ Fluid Flow (CMFF’18), J. Vad (Ed.), 2018. ISBN: 978-963313297-5. Accepted pape
 - Rakhi, H. Schmidt, "One-dimensional turbulence: application to incompressible spatially developing turbulent boundary layers," International Journal of Heat and Fluid Flow, [85:108626](https://doi.org/10.1016/j.ijheatfluidflow.2020.108626) (2020).
 
 - C.P. Chen, J.H. Liang, Q.D. Guan, and T.Y. Gao, "Conservative compressible one-dimensional turbulence
-method and its application in supersonic scalar mixing layer," Acta Aeronautica et Astronautica Sinica. [42:726364]() (2021).
+method and its application in supersonic scalar mixing layer," Acta Aeronautica et Astronautica Sinica. 42:726364 (2021).
 
 ------------------------------------
 

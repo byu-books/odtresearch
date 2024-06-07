@@ -1,7 +1,7 @@
 # Research groups
 
 A number of research groups and individuals have been involved in ODT, LEM, and HiPS research. A few of these include:
-- [Alan Kerstein]()
+- Alan Kerstein
 - [Computational Turbulent Reacting Flow Research Lab](https://ignite.byu.edu) at Brigham Young University led by David Lignell.
 - [Numerical Fluids and Gasdynamics Lab](https://www.b-tu.de/en/fg-stroemungsmodellierung/divisions/numerical-fluid-and-gasdynamics) led by Heiko Schmidt at Brandenburg University of Technology at Cottbus-Senftenberg.
 - Oevermann Research Lab led by Michael Oevermann at Brandenburg University of Technology at Cottbus-Senftenberg.
