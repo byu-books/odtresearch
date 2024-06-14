@@ -24,6 +24,14 @@
 
 - J.A. Medina Méndez, M. Klein, H. Schmidt, "The One-Dimensional Turbulence Aspects of Internal Forced Convective Flows," Proc. WCCM ECCOMAS 2020, 2021. [DOI: https://doi.org/10.23967/wccm-eccomas.2020.338](https://doi.org/10.23967/wccm-eccomas.2020.338).
 
+- M. Klein, P.-Y. Tsai, and H. Schmidt. "Stochastic modeling and large-eddy simulation of heated concentric coaxial pipes," In book: New Results in Numerical and Experimental Fluid Mechanics XIV - Contributions to the 23rd STAB/DGLR Symposium Berlin, Germany 2022, edited by A. Dillmann, G. Heller, E. Krämer, C. Wagner, and J. Weiss. Notes on Numerical Fluid Mechanics and Multidisciplinary Design, [154:435–444](https://doi.org/10.1007/978-3-031-40482-5_41), Springer, Cham, 2024. [Preprint, arXiv](https://doi.org/10.48550/arXiv.2310.19800). [Preprint, BTU webpage](https://www-docs.b-tu.de/fg-stroemungsmodellierung/public/Klein_2024_STAB22chapter_heatedAnnularPipe.pdf).
+
+- J. A. Medina Mendez, and H. Schmidt. "Towards the evaluation of heat and mass transfer in pipe flows with cocurrent falling films using One‐Dimensional Turbulence," Proc. Appl. Math. Mech., [23:e202200271](http://dx.doi.org/10.1002/pamm.202200271), 2023.
+
+- P.-Y. Tsai, H. Schmidt, and M. Klein. "Investigating Reynolds number effects in turbulent concentric coaxial pipe flow using stochastic one-dimensional turbulence modeling," Proc. Appl Math. Mech., [23:e202300167](https://doi.org/10.1002/pamm.202300167), 2023, (open access).
+
+- P.-Y. Tsai, H. Schmidt, and M. Klein. "Modeling simultaneous momentum and passive scalar transfer in turbulent annular Poiseuille flow," Proc. Appl Math. Mech., [22:e202200272](https://doi.org/10.1002/pamm.202200272), 2023, (open access).
+
 ------------------------------------
 
 ## Compressible flows
@@ -42,19 +50,29 @@ lence modeling of compressible flows II. Full compressible modification and appl
 
 - M. Klein, H. Schmidt, "Stochastic Modeling of Passive Scalar Transport in Turbulent Channel Flows at High Schmidt Numbers," Proc. TSFP10, 2017. [URL](http://tsfp10.org/TSFP10_program/2/368.pdf).
 
-- V. Giddey, D.W. Meyer, P. Jenny. “Modeling Three-Dimensional Scalar Mixing with Forced One-Dimensional Turbulence.” Physics of Fluids, [30:12](https://doi.org/10.1063/1.5055752) (2018).
+- V. Giddey, D.W. Meyer, P. Jenny. “Modeling Three-Dimensional Scalar Mixing with Forced One-Dimensional Turbulence,” Physics of Fluids, [30:12](https://doi.org/10.1063/1.5055752) (2018).
 
 - M. Klein, C. Zenker, H. Schmidt, "Small-scale resolving simulations of the turbulent mixing in confined planar jets using one-dimensional turbulence," Chemical Engineering Science, [204:186-202](https://doi.org/10.1016/j.ces.2019.04.024) (2019).
 
 - M. Klein, C. Zenker, K. Hertha, H. Schmidt, "Modeling One and Two Passive Scalar Mixing in Turbulent Jets Using One-Dimensional Turbulence," Proc. WCCM ECCOMAS 2020, 2021. [DOI](https://doi.org/10.23967/wccm-eccomas.2020.205).
 
-- M. Klein, H. Schmidt, "Stochastic Modeling of Passive Scalars in Turbulent Channel Flows: Predictive Capabilities of One-Dimensional Turbulence," New Results in Numerical and Experimental Fluid Mechanics XIII, A. Dillmann et al. (Eds.): STAB/DGLR Symposium 2020, NNFM 151, pp. 1–11, 2022. In press. [DOI](https://doi.org/10.1007/978-3-030-79561-0_5).
+- M. Klein, H. Schmidt, "Stochastic Modeling of Passive Scalars in Turbulent Channel Flows: Predictive Capabilities of One-Dimensional Turbulence," In: A. Dillmann et al. (Eds.), New Results in Numerical and Experimental Fluid Mechanics XIII, volume 151, Notes on Numerical Fluid Mechanics and Multidisciplinary Design, [Springer Nature, Cham, 2021, pp. 47-57](https://link.springer.com/chapter/10.1007%2F978-3-030-79561-0_5). STAB/DGLR Symposium 2020. [Preprint](https://arxiv.org/abs/2011.04818).
+
+- M. Klein, C. Zenker, T. Starick, and H. Schmidt. "Stochastic modeling of multiple scalar mixing in a three-stream concentric coaxial jet based on one-dimensional turbulence," Int. J. Heat Fluid Flow, [104:109235](https://doi.org/10.1016/j.ijheatfluidflow.2023.109235), 2023 (open access).
+
+- M. Klein, T. Starick, C. Zenker, J. A. Medina Méndez, and Heiko Schmidt. "Reduced order stochastic modeling of turbulent mixing based on conservative baker’s map." In: Proc. 14th Int. ERCOFTAC Sympos. Eng. Turbul. Model. Measurem. (ETMM14), [pp. 613–617, 2023](https://etmm.ercoftac.org/etmm/program/conference-program/). (Follow the link entitled "Download" to get the full proceedings.)
+
+- M. Klein, C. Zenker, T. Starick, and H. Schmidt. "Stochastic modeling of three-scalar mixing in a coaxial jet using one-dimensional turbulence," In: Proc. TSFP-12, Osaka (online), Japan, July 2022. [Session 13C, Jets II, ID 208](http://www.tsfp-conference.org/proceedings/2022/208.pdf).
+
+- M. Klein, H. Schmidt, and D. O. Lignell. "Stochastic modeling of surface scalar-flux fluctuations in turbulent channel flow using one-dimensional turbulence," Int. J. Heat Fluid Flow, [93:108889](https://doi.org/10.1016/j.ijheatfluidflow.2021.108889), 2022. In: Special Issue "Wall-bounded Reactive Flows '21". Preprint: [arXiv:2111.15359](https://arxiv.org/abs/2111.15359v1).
 
 ------------------------------------
 
 ## Particle flows
 
-- M. Fistler, A.R. Kerstein, S. Wunsch, M. Oevermann. “Turbulence modulation in particle-laden stationary homogeneous shear turbulence using One-Dimensional Turbulence.” Physical Review Fluids, [5:124303](https://doi.org/10.1103/PhysRevFluids.5.124303) (2020).
+- Y. Wu, P. Smith, J. Thornock, G. Yue, J. Zhang. “A novel method for prediction of particle dispersion in a planar jet using ODT model.” AIChE Annual Meeting, Conference Proceedings, [URL](https://www.researchgate.net/publication/287410139_A_novel_method_for_prediction_of_particle_dispersion_in_a_planar_jet_using_ODT_model) (2007).
+
+- J.R. Schmidt, J.O.L. Wendt, A.R. Kerstein. “Non-equilibrium wall deposition of inertial particles in turbulent flow.” Journal of Statistical Physics, [137(2):233-257](https://doi.org/10.1007/s10955-009-9844-8) (2009).
 
 - G. Sun, D.O. Lignell, J.C. Hewson, C. Gin, “Particle dispersion in homogeneous turbulence using the One-Dimensional Turbulence model,” Physics of Fluids, [26:103301](http://scitation.aip.org/content/aip/journal/pof2/26/10/10.1063/1.4896555) (2014). [Published paper ©](https://ignite.byu.edu/public/Sun_2014.pdf).
 
@@ -62,9 +80,7 @@ lence modeling of compressible flows II. Full compressible modification and appl
 
 - M. Fistler, A.R. Kerstein, S. Wunsch, M. Oevermann. “Turbulence modulation in particle-laden stationary homogeneous shear turbulence using One-Dimensional Turbulence.” Physical Review Fluids, [5:124303](https://doi.org/10.1103/PhysRevFluids.5.124303) (2020).
 
-- J.R. Schmidt, J.O.L. Wendt, A.R. Kerstein. “Non-equilibrium wall deposition of inertial particles in turbulent flow.” Journal of Statistical Physics, [137(2):233-257](https://doi.org/10.1007/s10955-009-9844-8) (2009).
-
-- Y. Wu, P. Smith, J. Thornock, G. Yue, J. Zhang. “A novel method for prediction of particle dispersion in a planar jet using ODT model.” AIChE Annual Meeting, Conference Proceedings, [URL](https://www.researchgate.net/publication/287410139_A_novel_method_for_prediction_of_particle_dispersion_in_a_planar_jet_using_ODT_model) (2007).
+- M. Fistler, A.R. Kerstein, S. Wunsch, M. Oevermann. “Turbulence modulation in particle-laden stationary homogeneous shear turbulence using One-Dimensional Turbulence.” Physical Review Fluids, [5:124303](https://doi.org/10.1103/PhysRevFluids.5.124303) (2020).
 
 ------------------------------------
 
@@ -87,6 +103,8 @@ Fluid Flow (CMFF’18), J. Vad (Ed.), 2018. ISBN: 978-963313297-5. Accepted pape
 
 - M. Klein, H. Schmidt, "Investigating thermal convection at low Prandtl numbers using one-dimensional turbulence," Proc. TSFP11, 2019. [URL](http://www.tsfp-conference.org/proceedings/2019/14.pdf).
 
+- S. R. G. Polasanapalli, M. Klein, and H. Schmidt. "Towards stochastic subgrid-scale modeling of turbulent thermal convection in an under-resolved off-lattice Boltzmann method." Proc. Appl. Math. Mech. [23:e202300223](https://doi.org/10.1002/pamm.202300223), 2023, (open access).
+
 ------------------------------------
 
 ## Electrohydrodynamically (EHD) enhanced flows
@@ -98,6 +116,14 @@ Fluid Flow (CMFF’18), J. Vad (Ed.), 2018. ISBN: 978-963313297-5. Accepted pape
 - M. Klein, H. Schmidt, "Towards a stochastic model for electrohydrodynamic turbulence with application to electrolytes," Proc. Appl. Math. Mech., [20:e202000128](https://doi.org/10.1002/pamm.202000128) (2020).
 
 - H. Schmidt, J.A. Medina Méndez, M. Klein, "EHD turbulence in channel flows with inhomogeneous electrical fields: a one-dimensional turbulence study," Proc. WCCM ECCOMAS 2020, 2021. [DOI](https://doi.org/10.23967/wccm-eccomas.2020.131).
+
+- M. Klein, J. A. Medina Méndez, and H. Schmidt. "Stochastic modeling of electrohydrodynamically enhanced drag in one-way and fully coupled turbulent Poiseuille and Couette flow," Technische Mechanik, [43(1):111–127](https://doi.org/10.24352/UB.OVGU-2023-049), 2023, (open access).
+
+- M. Klein, J. A. Medina Méndez, and H. Schmidt. "Modeling electrohydrodynamically enhanced drag in channel and pipe flows using one-dimensional turbulence," In: Janos Vad (Ed.), Proc. Conf. Model. Fluid Flow (CMFF’22), [18:82–91](https://www.cmff.hu/pdf/CMFF22_Conference_Proceedings.pdf), CMFF22-015, 2022. University of Technology and Economics, Department of Fluid Mechanics, Budapest, Hungary. ISBN 978-9634218814.
+
+- M. Klein, and H. Schmidt. "Investigating Schmidt number effects in turbulent electroconvection using one-dimensional turbulence," Proc. Appl. Math. Mech., [21:e202100147](https://doi.org/10.1002/pamm.202100147), 2021.
+
+- J. A. Medina Mendez, C. Bacher, U. Riebel, and H. Schmidt. "Electrohydrodynamically-enhanced drag in a vertical pipe-flow with a concentric electrode: A One-Dimensional Turbulence study," European Journal of Mechanics - B/Fluids, [95:240-251](http://dx.doi.org/10.1016/j.euromechflu.2022.05.008), 2022.
 
 ------------------------------------
 
@@ -161,6 +187,8 @@ Fluid Flow (CMFF’18), J. Vad (Ed.), 2018. ISBN: 978-963313297-5. Accepted pape
 
 - T. Starick, J. A. Medina Méndez, H. Schmidt, "One-Dimensional Turbulence simulations for reactive flows in open and closed systems," Technische Mechanik, [39:162-174](https://doi.org/10.24352/UB.OVGU-2019-015) (2019).
 
+- T. Starick, D. O. Lignell, and H. Schmidt. "Stochastic Modeling of a Lifted Methane/Air Jet Flame with Detailed Chemistry," Proc. Appl. Math. Mech., [20:e202000316](https://doi.org/10.1002/pamm.202000316), 2020.
+
 - W. Yang, B. Liu, H. Zhang, Y. Zhang, Y. Wu, J. Lyu. “Prediction improvements of ignition characteristics of isolated coal particles with a one-dimensional transient model.” Proceedings of the Combustion Institute, [38(3):4083-4089](https://doi.org/10.1016/j.proci.2020.06.235) (2021).
 
 ------------------------------------
@@ -211,15 +239,33 @@ method and its application in supersonic scalar mixing layer," Acta Aeronautica 
 
 ## Meteorology 
 
-- B. Goger, M.W. Rotach, A. Gohm, O. Fuhrer, I. Stiperski, A.A.M. Holtslag. “The impact of three-dimensional effects on the simulation of turbulence kinetic energy in a major alpine valley.” Boundary-Layer Meteorology, [168(1):1-27](https://doi.org/10.1007/s10546-018-0341-y) (2018).
-
-- S.N. Stechmann. “Multiscale eddy simulation for moist atmospheric convection: preliminary Investigation.” Journal of Computational Physics, [271:99-117]( https://doi.org/10.1016/j.jcp.2014.02.009) (2014).
-
-- H. Schmidt, A.R. Kerstein, S. Wunsch, R. Nedelec, B.J. Sayler. “Analysis and numerical simulation of a laboratory analog of radiatively induced cloud-top entrainment.” Theoretical and Computational Fluid Dynamics, [27(3-4):377-395](https://doi.org/10.1007/s00162-012-0288-4) (2013).
+- A.R. Kerstein, S. Wunsch. “Simulation of a stably stratified atmospheric boundary layer using One-Dimensional Turbulence.” Boundary-Layer Meteorology, [118(2):325-356](https://doi.org/10.1007/s10546-005-9004-x) (2006).
 
 - C.K. Kim, S.S. Yum. “A numerical study of sea-fog formation over cold sea surface using a One-Dimensional Turbulence model coupled with the weather research and forecasting model.” Boundary-Layer Meteorology, [143(3):481-505](https://doi.org/10.1007/s10546-012-9706-9) (2012).
 
-- A.R. Kerstein, S. Wunsch. “Simulation of a stably stratified atmospheric boundary layer using One-Dimensional Turbulence.” Boundary-Layer Meteorology, [118(2):325-356](https://doi.org/10.1007/s10546-005-9004-x) (2006).
+- H. Schmidt, A.R. Kerstein, S. Wunsch, R. Nedelec, B.J. Sayler. “Analysis and numerical simulation of a laboratory analog of radiatively induced cloud-top entrainment.” Theoretical and Computational Fluid Dynamics, [27(3-4):377-395](https://doi.org/10.1007/s00162-012-0288-4) (2013).
+
+- S.N. Stechmann. “Multiscale eddy simulation for moist atmospheric convection: preliminary Investigation.” Journal of Computational Physics, [271:99-117]( https://doi.org/10.1016/j.jcp.2014.02.009) (2014).
+
+- B. Goger, M.W. Rotach, A. Gohm, O. Fuhrer, I. Stiperski, A.A.M. Holtslag. “The impact of three-dimensional effects on the simulation of turbulence kinetic energy in a major alpine valley.” Boundary-Layer Meteorology, [168(1):1-27](https://doi.org/10.1007/s10546-018-0341-y) (2018).
+
+- L. S. Freire, and M. Chamecki. "A one-dimensional stochastic model of turbulence within and above plant canopies, Agr. Forest Meteorol., [250–251:9–23](https://doi.org/10.1016/j.agrformet.2017.12.211), 2018.
+
+- M. Klein, Roland E. Maier, and H. Schmidt. "Stochastic modeling of transient neutral and stably-stratified Ekman boundary layers," Proc. Appl. Math. Mech., [21:e202100146](https://doi.org/10.1002/pamm.202100146), 2021.
+
+- M. Klein, and H. Schmidt. "Exploring stratification effects in stable Ekman boundary layers using a stochastic one-dimensional turbulence model," Adv. Sci. Res., [19:117–136](https://doi.org/10.5194/asr-19-117-2022), 2022, (open access).
+
+- L. S. Freire. "Large-eddy simulation of the atmospheric boundary layer with near-wall resolved turbulence," Bound.-Lay. Meteorol., [184:25–43](https://doi.org/10.1007/s10546-022-00702-z), 2022.
+
+- M. Klein, and H. Schmidt. "Capturing features of turbulent Ekman–Stokes boundary layers with a stochastic modeling approach," Adv. Sci. Res., [20:55–64](https://doi.org/10.5194/asr-20-55-2023), 2023, (open access).
+
+
+
+
+
+
+
+
 
 ------------------------------------
 
@@ -247,29 +293,31 @@ method and its application in supersonic scalar mixing layer," Acta Aeronautica 
 
 ## Computational Approach/Comparison
 
-- R. Ranade, T. Echekki. “A framework for data-based turbulent combustion closure: A Priori validation.” Combustion and Flame, [206:490-505](https://doi.org/10.1016/j.combustflame.2019.05.028) (2019).
-
-- H. Grosshans, A. Movaghar, L. Cao, M. Oevermann, R.Z. Szasz, L. Fuchs. “Sensitivity of VOF simulations of the liquid jet breakup to physical and numerical parameters.” Computers & Fluids, [136:312-323](https://doi.org/10.1016/j.compfluid.2016.06.018) (2016).
-
-- B. Goshayeshi, J.C. Sutherland. “A comparative study of thermochemistry models for oxy-coal combustion simulation.” Combustion and Flame, [162(10):4016-4024](https://doi.org/10.1016/j.combustflame.2015.07.041) (2015).
-
-- A.W. Abboud, B.B. Schroeder, T. Saad, S.T. Smith, D.D. Harris, D.O. Lignell. “A numerical comparison of precipitating turbulent flows between Large-Eddy Simulation and One-Dimensional Turbulence.” AIChE Journal, [61(10):3185-3197](https://doi.org/10.1002/aic.14870) (2015).
+- A.R. Kerstein. “One-Dimensional Turbulence: a new approach to high-fidelity subgrid closure of turbulent flow simulations.” Computer Physics Communications, [148(1):1-16](https://doi.org/10.1016/S0010-4655(02)00552-0) (2002).
 
 - W.T. Ashurst, A.R. Kerstein, L.M. Pickett, J.B. Ghandhi. “Passive scalar mixing in a spatially developing shear layer: comparison of One-Dimensional Turbulence simulations with experimental results.” Physics of Fluids, [15(2):579-582](https://doi.org/10.1063/1.1531994) (2003).
 
-- Z. Jozefik, A.R. Kerstein, H. Schmidt, S. Lyra, H. Kolla, J.H. Chen. “One-Dimensional Turbulence modeling of a turbulent counterflow flame with comparison to DNS.” Combustion and Flame, [162(8):2999-3015](https://doi.org/10.1016/j.combustflame.2015.05.010) (2015).
-
-- N. Punati, H. Wang, E.R. Hawkes, J.C. Sutherland. “One-Dimensional modeling of Turbulent premixed jet Fflames - comparison to DNS.” Flow Turbulence and Combustion, [97(3):913-930](https://doi.org/10.1007/s10494-016-9721-x) (2016).
-
-- H. Mirgolbabaei, T. Echekki, N. Smaoui. “A nonlinear principal component analysis approach for turbulent combustion composition space.” International Journal of Hydrogen Energy, [39(9):4622-4633](https://doi.org/10.1016/j.ijhydene.2013.12.195) (2014).
-
 - M. Okamura, H. Mori. “Time correlation functions in a similarity approximation for One-Dimensional Turbulence.” Physical Review E, [79:5,2](https://doi.org/10.1103/PhysRevE.79.056312) (2009).
 
-- A.R. Kerstein. “One-Dimensional Turbulence: a new approach to high-fidelity subgrid closure of turbulent flow simulations.” Computer Physics Communications, [148(1):1-16](https://doi.org/10.1016/S0010-4655(02)00552-0) (2002).
+- J.C. Sutherland, N. Punati, A.R. Kerstein. "A uniﬁed approach to the various formulations of the One-Dimensional Turbulence model." Technical Report ICSE100101, The University of Utah Institute for Clean and Secure Energy, [URL](https://collections.lib.utah.edu/ark:/87278/s62n8195) (2010).
 
 - N. Punati, J.C. Sutherland. "Application of an Eulerian One-Dimensional Turbulence model to simulation of turbulent jets." U.S. Joint Sections of the Combustion Institute, Ann Arbor, MI, [URL](https://www.researchgate.net/publication/280979059_Application_of_an_Eulerian_One_Dimensional_Turbulence_model_to_Simulation_of_Turbulent_Jets) (2009).
 
-- J.C. Sutherland, N. Punati, A.R. Kerstein. "A uniﬁed approach to the various formulations of the One-Dimensional Turbulence model." Technical Report ICSE100101, The University of Utah Institute for Clean and Secure Energy, [URL](https://collections.lib.utah.edu/ark:/87278/s62n8195) (2010).
+- H. Mirgolbabaei, T. Echekki, N. Smaoui. “A nonlinear principal component analysis approach for turbulent combustion composition space.” International Journal of Hydrogen Energy, [39(9):4622-4633](https://doi.org/10.1016/j.ijhydene.2013.12.195) (2014).
+
+- B. Goshayeshi, J.C. Sutherland. “A comparative study of thermochemistry models for oxy-coal combustion simulation.” Combustion and Flame, [162(10):4016-4024](https://doi.org/10.1016/j.combustflame.2015.07.041) (2015).
+
+- Z. Jozefik, A.R. Kerstein, H. Schmidt, S. Lyra, H. Kolla, J.H. Chen. “One-Dimensional Turbulence modeling of a turbulent counterflow flame with comparison to DNS.” Combustion and Flame, [162(8):2999-3015](https://doi.org/10.1016/j.combustflame.2015.05.010) (2015).
+
+- A.W. Abboud, B.B. Schroeder, T. Saad, S.T. Smith, D.D. Harris, D.O. Lignell. “A numerical comparison of precipitating turbulent flows between Large-Eddy Simulation and One-Dimensional Turbulence.” AIChE Journal, [61(10):3185-3197](https://doi.org/10.1002/aic.14870) (2015).
+
+- H. Grosshans, A. Movaghar, L. Cao, M. Oevermann, R.Z. Szasz, L. Fuchs. “Sensitivity of VOF simulations of the liquid jet breakup to physical and numerical parameters.” Computers & Fluids, [136:312-323](https://doi.org/10.1016/j.compfluid.2016.06.018) (2016).
+
+- N. Punati, H. Wang, E.R. Hawkes, J.C. Sutherland. “One-Dimensional modeling of Turbulent premixed jet Fflames - comparison to DNS.” Flow Turbulence and Combustion, [97(3):913-930](https://doi.org/10.1007/s10494-016-9721-x) (2016).
+
+- R. Ranade, T. Echekki. “A framework for data-based turbulent combustion closure: A Priori validation.” Combustion and Flame, [206:490-505](https://doi.org/10.1016/j.combustflame.2019.05.028) (2019).
+
+- J. A. Medina Mendez, M. González, F. Baena-Moreno, and H. Arellano-Garcia. "CO2 methanation: on the modeling of reacting laminar flows in structured Ni/MgAl2O4 catalysts," Journal of Physics: Conference Series, [2367:012015](http://dx.doi.org/10.1088/1742-6596/2367/1/012015), 2022.
 
 ------------------------------------
 
@@ -294,15 +342,33 @@ method and its application in supersonic scalar mixing layer," Acta Aeronautica 
 - C. Glawe, J. A. Medina Méndez, H. Schmidt, "IMEX based Multi-Scale Time Advancement in
 ODTLES," ZAMM, [98:1907-1923](https://doi.org/10.1002/zamm.201800098) (2018).
 
+- J. A. Medina Mendez, C. Glawe, T. Starick, M. S. Schöps, and H. Schmidt. "IMEX-ODTLES: A multi-scale and stochastic approach for highly turbulent flows," Proc. Appl. Math. Mech., [19:e201900433](https://doi.org/10.1002/pamm.201900433), 2019.
+
+- L. S.Freire and M. Chamecki. "Large-eddy simulation of smooth and rough channel flows using a one-dimensional stochastic wall model," Comput. Fluids, [230:105135](https://doi.org/10.1016/j.compfluid.2021.105135), 2021.
+
+------------------------------------
+
+## Acoustics
+
+- J. A. Medina Méndez, S. Sharma, H. Schmidt, and M. Klein. "Toward the use of a reduced-order and stochastic turbulence model for assessment of far-field sound radiation: Low Mach number jet flows," Proc. Appl. Math. Mech., [23:e202300186](https://doi.org/10.1002/pamm.202300186), 2023, (open access).
+
+- S. Sharma, M. Klein, J. A. Medina Mendez, and L. Ayton. "A theoretical study of self-soise generation in turbulent jets using one-dimensional turbulence and Lighthill's acoustic analogy," INTER-NOISE and NOISE-CON Congress and Conference Proceedings, [paper ID 268](http://dx.doi.org/10.3397/IN_2023_0056), 2023.
+
+- S. Sharma, M. Klein, and H. Schmidt. "Features of far-downstream asymptotic velocity fluctuations in a round jet: A one-dimensional turbulence study," Phys. Fluids, [34:085134](https://doi.org/10.1063/5.0101270), 2022.
+
+- S. Sharma, M. Klein, and H. Schmidt. "Modelling turbulent jets at high-Reynolds number using one-dimensional turbulence," [AIAA 2021-2104](https://arc.aiaa.org/doi/10.2514/6.2021-2104), AIAA AVIATION 2021 FORUM, August 2021.
+
 ------------------------------------
 
 ## Other
+
+- A.R. Kerstein, T.D. Dreeben. “Prediction of turbulent free shear flow statistics using a simple stochastic model.” Physics of Fluids, [12(2):418-424](https://doi.org/10.1063/1.870319) (2000).
+
+- W.T. Ashurst, A.R. Kerstein. “One-Dimensional Turbulence: variable-density formulation and application to mixing layers.” Physics of Fluids, [17:2](https://doi.org/10.1063/1.1847413) (2005).
  
 - A. Movaghar, M. Linne, M. Herrmann, A.R. Kerstein, M. Oevermann. “Modeling and numerical study of primary breakup under diesel conditions.” International Journal of Multiphase Flow, [98:110-119](https://doi.org/10.1016/j.ijmultiphaseflow.2017.09.002) (2018).
 
 - A. Carati, L. Galgani, F. Santolini. “On the energy transfer to small scales in a discrete model of One-Dimensional Turbulence.” Chaos, [19:2](https://doi.org/10.1063/1.3156729) (2019).
 
-- W.T. Ashurst, A.R. Kerstein. “One-Dimensional Turbulence: variable-density formulation and application to mixing layers.” Physics of Fluids, [17:2](https://doi.org/10.1063/1.1847413) (2005).
-
-- A.R. Kerstein, T.D. Dreeben. “Prediction of turbulent free shear flow statistics using a simple stochastic model.” Physics of Fluids, [12(2):418-424](https://doi.org/10.1063/1.870319) (2000).
+- C. Glawe, M. Klein, H. Schmidt. "Stochastic deconvolution of wall statistics in Reynolds-averaged Navier–Stokes simulations based on one-dimensional turbulence," [Proc. Appl. Math. Mech., 23:e202300055](https://doi.org/10.1002/pamm.202300055), 2023, (open access).
 
