@@ -12,3 +12,4 @@
 
 - T. Starick, and H Schmidt. "Investigation of turbulent mixing using a stochastic hierarchical parcel swapping mixing model," Proc. Appl. Math. Mech., [22:e202200283](https://doi.org/10.1002/pamm.202200283), 2023.
 
+- M. Behrang, T. Starick, I. Wheeler, H. Schmidt, A.R. Kerstein, D.O. Lignell, “Hierarchical parcel-swapping representation of turbulent mixing. Part 4. Extension to the viscous range and to mixing of scalars with nonunity Schmidt numbers,” submitted to Journal of Fluid Mechanics, June 2024. [Preprint](https://ignite.byu.edu/public/hips_sc_2024.pdf) (2024).
